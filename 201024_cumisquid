@@ -1522,8 +1522,6 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
-
-
 #EXTINF:-1 tvg-ID="" group-title="Temp",KIX SD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
@@ -1539,7 +1537,7 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 #EXTINF:-1 tvg-ID="" group-title="Temp",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-ID="" group-title="Temp",CINEMA WORD
+#EXTINF:-1 tvg-ID="" group-title="Temp",CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:-1 tvg-ID="" group-title="Temp",HITS
@@ -1551,21 +1549,29 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Temp",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_11
+#EXTINF:-1 tvg-ID="" group-title="Temp",Disney XD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_13
+
+#EXTINF:-1 tvg-ID="" group-title="Temp",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_30
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_33
+
+#EXTINF:-1 tvg-ID="" group-title="Temp",AXN
 http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_66
+
+#EXTINF:-1 tvg-ID="" group-title="Temp",Fox Movies TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_73
+
+#EXTINF:-1 tvg-ID="" group-title="Temp",HBO
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_84
+
+#EXTINF:-1 tvg-ID="" group-title="Temp",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
 #EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_74
 https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_77
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8

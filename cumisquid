@@ -397,19 +397,19 @@ http://103.130.186.138:8800/oxygenplay/alkasstwo/index.m3u8
 http://103.130.186.138:8800/oxygenplay/dubaisport3/index.m3u815434
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapore",5頻道
-http://iptvtree.net:8080/766a3d10/7781c6505e/59296
+http://iptvtree.net:8080/13354/27c12697/59296
 
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singapore",8頻道
-http://iptvtree.net:8080/766a3d10/7781c6505e/59293
+http://iptvtree.net:8080/13354/27c12697/59293
 
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapore",U頻道
-http://iptvtree.net:8080/766a3d10/7781c6505e/59300
+http://iptvtree.net:8080/13354/27c12697/59300
 
 #EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham 
-http://iptvtree.net:8080/766a3d10/7781c6505e/59297
+http://iptvtree.net:8080/13354/27c12697/59297
 
 #EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore",Suria 
-http://iptvtree.net:8080/766a3d10/7781c6505e/59290
+http://iptvtree.net:8080/13354/27c12697/59290
 
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapore",亚洲新闻台(CNA)
 http://210.210.155.66/h/h29/02.m3u8      	
@@ -1184,1742 +1184,1742 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
 #EXTINF:-1 group-title="iptvtree USA",US: 24/7 Friends
-http://iptvtree.net:8080/766a3d10/7781c6505e/148440
+http://iptvtree.net:8080/13354/27c12697/148440
 #EXTINF:-1 group-title="iptvtree USA",US: 24/7 Mr. Bean
-http://iptvtree.net:8080/766a3d10/7781c6505e/148450
+http://iptvtree.net:8080/13354/27c12697/148450
 #EXTINF:-1 group-title="iptvtree USA",US: 24/7 Seinfeld
-http://iptvtree.net:8080/766a3d10/7781c6505e/148457
+http://iptvtree.net:8080/13354/27c12697/148457
 #EXTINF:-1 group-title="iptvtree USA",US: Adult Swim
-http://iptvtree.net:8080/766a3d10/7781c6505e/35565
+http://iptvtree.net:8080/13354/27c12697/35565
 #EXTINF:-1 group-title="iptvtree USA",US: AMC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/751
+http://iptvtree.net:8080/13354/27c12697/751
 #EXTINF:-1 group-title="iptvtree USA",US: American Heroes Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192224
+http://iptvtree.net:8080/13354/27c12697/192224
 #EXTINF:-1 group-title="iptvtree USA",US: ANIMAL PLANET EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/6501
+http://iptvtree.net:8080/13354/27c12697/6501
 #EXTINF:-1 group-title="iptvtree USA",US: ANIMAL PLANET HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6329
+http://iptvtree.net:8080/13354/27c12697/6329
 #EXTINF:-1 group-title="iptvtree USA",US: ANIMAL PLANET WEST
-http://iptvtree.net:8080/766a3d10/7781c6505e/193489
+http://iptvtree.net:8080/13354/27c12697/193489
 #EXTINF:-1 group-title="iptvtree USA",US: BET HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2278
+http://iptvtree.net:8080/13354/27c12697/2278
 #EXTINF:-1 group-title="iptvtree USA",US: Bloomberg HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2280
+http://iptvtree.net:8080/13354/27c12697/2280
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187622
+http://iptvtree.net:8080/13354/27c12697/187622
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187623
+http://iptvtree.net:8080/13354/27c12697/187623
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187624
+http://iptvtree.net:8080/13354/27c12697/187624
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187625
+http://iptvtree.net:8080/13354/27c12697/187625
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187618
+http://iptvtree.net:8080/13354/27c12697/187618
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 6 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187617
+http://iptvtree.net:8080/13354/27c12697/187617
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 7 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187619
+http://iptvtree.net:8080/13354/27c12697/187619
 #EXTINF:-1 group-title="iptvtree USA",US: BOX OFFICE 8 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/187620
+http://iptvtree.net:8080/13354/27c12697/187620
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 01 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30976
+http://iptvtree.net:8080/13354/27c12697/30976
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 02 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30977
+http://iptvtree.net:8080/13354/27c12697/30977
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 03 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30978
+http://iptvtree.net:8080/13354/27c12697/30978
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 04 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30979
+http://iptvtree.net:8080/13354/27c12697/30979
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 05 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30973
+http://iptvtree.net:8080/13354/27c12697/30973
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 06 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30980
+http://iptvtree.net:8080/13354/27c12697/30980
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 07 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/61443
+http://iptvtree.net:8080/13354/27c12697/61443
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 08 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/61436
+http://iptvtree.net:8080/13354/27c12697/61436
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 09 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30981
+http://iptvtree.net:8080/13354/27c12697/30981
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 10 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/33458
+http://iptvtree.net:8080/13354/27c12697/33458
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 11 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/61442
+http://iptvtree.net:8080/13354/27c12697/61442
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 12 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/61440
+http://iptvtree.net:8080/13354/27c12697/61440
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 13
-http://iptvtree.net:8080/766a3d10/7781c6505e/197567
+http://iptvtree.net:8080/13354/27c12697/197567
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 13 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/66070
+http://iptvtree.net:8080/13354/27c12697/66070
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 14 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30986
+http://iptvtree.net:8080/13354/27c12697/30986
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 15 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30991
+http://iptvtree.net:8080/13354/27c12697/30991
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 16 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145989
+http://iptvtree.net:8080/13354/27c12697/145989
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 17 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30990
+http://iptvtree.net:8080/13354/27c12697/30990
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 18 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/148831
+http://iptvtree.net:8080/13354/27c12697/148831
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 19 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145990
+http://iptvtree.net:8080/13354/27c12697/145990
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 20 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30988
+http://iptvtree.net:8080/13354/27c12697/30988
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 21 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145991
+http://iptvtree.net:8080/13354/27c12697/145991
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 22 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30994
+http://iptvtree.net:8080/13354/27c12697/30994
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 23 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30992
+http://iptvtree.net:8080/13354/27c12697/30992
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 24 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145992
+http://iptvtree.net:8080/13354/27c12697/145992
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 25 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145993
+http://iptvtree.net:8080/13354/27c12697/145993
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 26 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30998
+http://iptvtree.net:8080/13354/27c12697/30998
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 27 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/30999
+http://iptvtree.net:8080/13354/27c12697/30999
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 28 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/31001
+http://iptvtree.net:8080/13354/27c12697/31001
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 29 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145995
+http://iptvtree.net:8080/13354/27c12697/145995
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 30 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145997
+http://iptvtree.net:8080/13354/27c12697/145997
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 31 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145996
+http://iptvtree.net:8080/13354/27c12697/145996
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 32 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/148828
+http://iptvtree.net:8080/13354/27c12697/148828
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 33 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145994
+http://iptvtree.net:8080/13354/27c12697/145994
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 34 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145999
+http://iptvtree.net:8080/13354/27c12697/145999
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 35 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/145998
+http://iptvtree.net:8080/13354/27c12697/145998
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 36 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/148825
+http://iptvtree.net:8080/13354/27c12697/148825
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 37 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/76363
+http://iptvtree.net:8080/13354/27c12697/76363
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 38 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/148824
+http://iptvtree.net:8080/13354/27c12697/148824
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 39 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/194125
+http://iptvtree.net:8080/13354/27c12697/194125
 #EXTINF:-1 group-title="iptvtree USA",US: Cinema 40 PPV
-http://iptvtree.net:8080/766a3d10/7781c6505e/31010
+http://iptvtree.net:8080/13354/27c12697/31010
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax (West) HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2261
+http://iptvtree.net:8080/13354/27c12697/2261
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax 5
-http://iptvtree.net:8080/766a3d10/7781c6505e/2291
+http://iptvtree.net:8080/13354/27c12697/2291
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax 5 Max
-http://iptvtree.net:8080/766a3d10/7781c6505e/193554
+http://iptvtree.net:8080/13354/27c12697/193554
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax 5 Star Max
-http://iptvtree.net:8080/766a3d10/7781c6505e/147384
+http://iptvtree.net:8080/13354/27c12697/147384
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Action 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146000
+http://iptvtree.net:8080/13354/27c12697/146000
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Action East FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146002
+http://iptvtree.net:8080/13354/27c12697/146002
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Action HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/56798
+http://iptvtree.net:8080/13354/27c12697/56798
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Action Max East
-http://iptvtree.net:8080/766a3d10/7781c6505e/78144
+http://iptvtree.net:8080/13354/27c12697/78144
 #EXTINF:-1 group-title="iptvtree USA",US: CINEMAX ACTION MAX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/16145
+http://iptvtree.net:8080/13354/27c12697/16145
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax East FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2292
+http://iptvtree.net:8080/13354/27c12697/2292
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/29698
+http://iptvtree.net:8080/13354/27c12697/29698
 #EXTINF:-1 group-title="iptvtree USA",US: CineMax More
-http://iptvtree.net:8080/766a3d10/7781c6505e/61538
+http://iptvtree.net:8080/13354/27c12697/61538
 #EXTINF:-1 group-title="iptvtree USA",US: CINEMAX Moremax FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/752
+http://iptvtree.net:8080/13354/27c12697/752
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Moviemax
-http://iptvtree.net:8080/766a3d10/7781c6505e/15110
+http://iptvtree.net:8080/13354/27c12697/15110
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Outer Max
-http://iptvtree.net:8080/766a3d10/7781c6505e/15109
+http://iptvtree.net:8080/13354/27c12697/15109
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemax Thriller Max HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78147
+http://iptvtree.net:8080/13354/27c12697/78147
 #EXTINF:-1 group-title="iptvtree USA",US: Cinemaxx More Maxx HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173135
+http://iptvtree.net:8080/13354/27c12697/173135
 #EXTINF:-1 group-title="iptvtree USA",US: CNBC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2295
+http://iptvtree.net:8080/13354/27c12697/2295
 #EXTINF:-1 group-title="iptvtree USA",US: CNBC W
-http://iptvtree.net:8080/766a3d10/7781c6505e/198231
+http://iptvtree.net:8080/13354/27c12697/198231
 #EXTINF:-1 group-title="iptvtree USA",US: CNBC WORLD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6431
+http://iptvtree.net:8080/13354/27c12697/6431
 #EXTINF:-1 group-title="iptvtree USA",US: CNN
-http://iptvtree.net:8080/766a3d10/7781c6505e/194900
+http://iptvtree.net:8080/13354/27c12697/194900
 #EXTINF:-1 group-title="iptvtree USA",US: CNN International
-http://iptvtree.net:8080/766a3d10/7781c6505e/166630
+http://iptvtree.net:8080/13354/27c12697/166630
 #EXTINF:-1 group-title="iptvtree USA",US: COMEDY CENTRAL (WEST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/147383
+http://iptvtree.net:8080/13354/27c12697/147383
 #EXTINF:-1 group-title="iptvtree USA",US: COMEDY CENTRAL EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/30918
+http://iptvtree.net:8080/13354/27c12697/30918
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery (WEST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/199788
+http://iptvtree.net:8080/13354/27c12697/199788
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery Channel EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/30922
+http://iptvtree.net:8080/13354/27c12697/30922
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery Family HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2300
+http://iptvtree.net:8080/13354/27c12697/2300
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery H&H
-http://iptvtree.net:8080/766a3d10/7781c6505e/2333
+http://iptvtree.net:8080/13354/27c12697/2333
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery Life HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/8555
+http://iptvtree.net:8080/13354/27c12697/8555
 #EXTINF:-1 group-title="iptvtree USA",US: Discovery TLC
-http://iptvtree.net:8080/766a3d10/7781c6505e/8559
+http://iptvtree.net:8080/13354/27c12697/8559
 #EXTINF:-1 group-title="iptvtree USA",US: Disney Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2303
+http://iptvtree.net:8080/13354/27c12697/2303
 #EXTINF:-1 group-title="iptvtree USA",US: Disney XD EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/6395
+http://iptvtree.net:8080/13354/27c12697/6395
 #EXTINF:-1 group-title="iptvtree USA",US E! EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/191462
+http://iptvtree.net:8080/13354/27c12697/191462
 #EXTINF:-1 group-title="iptvtree USA",US: E! Network
-http://iptvtree.net:8080/766a3d10/7781c6505e/83199
+http://iptvtree.net:8080/13354/27c12697/83199
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA 007 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151335
+http://iptvtree.net:8080/13354/27c12697/151335
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA ACTION FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151322
+http://iptvtree.net:8080/13354/27c12697/151322
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA ADVENTURE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151327
+http://iptvtree.net:8080/13354/27c12697/151327
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA ANIMATION FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151331
+http://iptvtree.net:8080/13354/27c12697/151331
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA BIOGRAPHY FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151338
+http://iptvtree.net:8080/13354/27c12697/151338
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA COMEDY FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157143
+http://iptvtree.net:8080/13354/27c12697/157143
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA COMICULT FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151334
+http://iptvtree.net:8080/13354/27c12697/151334
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA DRAMA FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157145
+http://iptvtree.net:8080/13354/27c12697/157145
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA FAMILY FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151336
+http://iptvtree.net:8080/13354/27c12697/151336
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA FANTASY FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151323
+http://iptvtree.net:8080/13354/27c12697/151323
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA HINDI FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151339
+http://iptvtree.net:8080/13354/27c12697/151339
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA History FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151337
+http://iptvtree.net:8080/13354/27c12697/151337
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA HORROR FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151332
+http://iptvtree.net:8080/13354/27c12697/151332
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA MYTHOLOGY HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157144
+http://iptvtree.net:8080/13354/27c12697/157144
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA PREMIERE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151325
+http://iptvtree.net:8080/13354/27c12697/151325
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA RELIGION HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157142
+http://iptvtree.net:8080/13354/27c12697/157142
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA ROMANCE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151328
+http://iptvtree.net:8080/13354/27c12697/151328
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA sci-fi FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151326
+http://iptvtree.net:8080/13354/27c12697/151326
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA THEATRE FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151333
+http://iptvtree.net:8080/13354/27c12697/151333
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA THRILLER FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151330
+http://iptvtree.net:8080/13354/27c12697/151330
 #EXTINF:-1 group-title="iptvtree USA",US: EMPIRE CINEMA WESTERN FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151324
+http://iptvtree.net:8080/13354/27c12697/151324
 #EXTINF:-1 group-title="iptvtree USA",US: FOOD NETWORK (East) HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6339
+http://iptvtree.net:8080/13354/27c12697/6339
 #EXTINF:-1 group-title="iptvtree USA",US: FOOD NETWORK (WEST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/151063
+http://iptvtree.net:8080/13354/27c12697/151063
 #EXTINF:-1 group-title="iptvtree USA",US: HBO (East) HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6382
+http://iptvtree.net:8080/13354/27c12697/6382
 #EXTINF:-1 group-title="iptvtree USA",US: HBO (West) HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6383
+http://iptvtree.net:8080/13354/27c12697/6383
 #EXTINF:-1 group-title="iptvtree USA",US: HBO 2 (East)
-http://iptvtree.net:8080/766a3d10/7781c6505e/61503
+http://iptvtree.net:8080/13354/27c12697/61503
 #EXTINF:-1 group-title="iptvtree USA",US: HBO 2 COMEDY
-http://iptvtree.net:8080/766a3d10/7781c6505e/24325
+http://iptvtree.net:8080/13354/27c12697/24325
 #EXTINF:-1 group-title="iptvtree USA",US: HBO 2 FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/5844
+http://iptvtree.net:8080/13354/27c12697/5844
 #EXTINF:-1 group-title="iptvtree USA",US: HBO COMEDY (EAST) FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/200076
+http://iptvtree.net:8080/13354/27c12697/200076
 #EXTINF:-1 group-title="iptvtree USA",US: HBO COMEDY FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2335
+http://iptvtree.net:8080/13354/27c12697/2335
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Family (EAST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/200077
+http://iptvtree.net:8080/13354/27c12697/200077
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Family FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/760
+http://iptvtree.net:8080/13354/27c12697/760
 #EXTINF:-1 group-title="iptvtree USA",US: HBO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/2336
+http://iptvtree.net:8080/13354/27c12697/2336
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Pacific
-http://iptvtree.net:8080/766a3d10/7781c6505e/25038
+http://iptvtree.net:8080/13354/27c12697/25038
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Plus HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171819
+http://iptvtree.net:8080/13354/27c12697/171819
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Plus West FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/76364
+http://iptvtree.net:8080/13354/27c12697/76364
 #EXTINF:-1 group-title="iptvtree USA",US: HBO SIGNATURE EAST FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/198514
+http://iptvtree.net:8080/13354/27c12697/198514
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Signature FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6305
+http://iptvtree.net:8080/13354/27c12697/6305
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Sinature
-http://iptvtree.net:8080/766a3d10/7781c6505e/198770
+http://iptvtree.net:8080/13354/27c12697/198770
 #EXTINF:-1 group-title="iptvtree USA",US: HBO Zone FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/6328
+http://iptvtree.net:8080/13354/27c12697/6328
 #EXTINF:-1 group-title="iptvtree USA",US: MTV 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/15073
+http://iptvtree.net:8080/13354/27c12697/15073
 #EXTINF:-1 group-title="iptvtree USA",US: MTV EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/30941
+http://iptvtree.net:8080/13354/27c12697/30941
 #EXTINF:-1 group-title="iptvtree USA",US: NAT GEO EAST
-http://iptvtree.net:8080/766a3d10/7781c6505e/6494
+http://iptvtree.net:8080/13354/27c12697/6494
 #EXTINF:-1 group-title="iptvtree USA",US: NAT GEO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/749
+http://iptvtree.net:8080/13354/27c12697/749
 #EXTINF:-1 group-title="iptvtree USA",US NAT GEO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/190588
+http://iptvtree.net:8080/13354/27c12697/190588
 #EXTINF:-1 group-title="iptvtree USA",US: NAT GEO Wild HD
 
 
 #EXTINF:-1 group-title="iptvtree USA",US: BUFFALO TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/199581
+http://iptvtree.net:8080/13354/27c12697/199581
 #EXTINF:-1 group-title="iptvtree USA",US: NBC 2 Buffalo
-http://iptvtree.net:8080/766a3d10/7781c6505e/197145
+http://iptvtree.net:8080/13354/27c12697/197145
 
 
 #EXTINF:-1 group-title="iptvtree China",CN: (Mongolia) MNB
-http://iptvtree.net:8080/766a3d10/7781c6505e/166787
+http://iptvtree.net:8080/13354/27c12697/166787
 #EXTINF:-1 group-title="iptvtree China",CN: (Mongolia) MNB Mongolyn Medee
-http://iptvtree.net:8080/766a3d10/7781c6505e/166414
+http://iptvtree.net:8080/13354/27c12697/166414
 #EXTINF:-1 group-title="iptvtree China",CN: Anhui
-http://iptvtree.net:8080/766a3d10/7781c6505e/145077
+http://iptvtree.net:8080/13354/27c12697/145077
 #EXTINF:-1 group-title="iptvtree China",CN: ARIRANG
-http://iptvtree.net:8080/766a3d10/7781c6505e/23957
+http://iptvtree.net:8080/13354/27c12697/23957
 #EXTINF:-1 group-title="iptvtree China",CN: BabyTV Mandarin
-http://iptvtree.net:8080/766a3d10/7781c6505e/152384
+http://iptvtree.net:8080/13354/27c12697/152384
 #EXTINF:-1 group-title="iptvtree China",CN: Beijing
-http://iptvtree.net:8080/766a3d10/7781c6505e/72447
+http://iptvtree.net:8080/13354/27c12697/72447
 #EXTINF:-1 group-title="iptvtree China",CN: BHTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/146852
+http://iptvtree.net:8080/13354/27c12697/146852
 #EXTINF:-1 group-title="iptvtree China",CN: Bloomberg TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146856
+http://iptvtree.net:8080/13354/27c12697/146856
 #EXTINF:-1 group-title="iptvtree China",CN: BTV 6 Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/146860
+http://iptvtree.net:8080/13354/27c12697/146860
 #EXTINF:-1 group-title="iptvtree China",CN: Canal Macau
-http://iptvtree.net:8080/766a3d10/7781c6505e/162135
+http://iptvtree.net:8080/13354/27c12697/162135
 #EXTINF:-1 group-title="iptvtree China",CN: CBS
-http://iptvtree.net:8080/766a3d10/7781c6505e/144925
+http://iptvtree.net:8080/13354/27c12697/144925
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/77290
+http://iptvtree.net:8080/13354/27c12697/77290
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/121168
+http://iptvtree.net:8080/13354/27c12697/121168
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/198538
+http://iptvtree.net:8080/13354/27c12697/198538
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/60300
+http://iptvtree.net:8080/13354/27c12697/60300
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 4 Europe
-http://iptvtree.net:8080/766a3d10/7781c6505e/146861
+http://iptvtree.net:8080/13354/27c12697/146861
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 6
-http://iptvtree.net:8080/766a3d10/7781c6505e/193224
+http://iptvtree.net:8080/13354/27c12697/193224
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/145073
+http://iptvtree.net:8080/13354/27c12697/145073
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 8 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/121179
+http://iptvtree.net:8080/13354/27c12697/121179
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 9
-http://iptvtree.net:8080/766a3d10/7781c6505e/193225
+http://iptvtree.net:8080/13354/27c12697/193225
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 10
-http://iptvtree.net:8080/766a3d10/7781c6505e/193226
+http://iptvtree.net:8080/13354/27c12697/193226
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 10 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/46732
+http://iptvtree.net:8080/13354/27c12697/46732
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 11
-http://iptvtree.net:8080/766a3d10/7781c6505e/81625
+http://iptvtree.net:8080/13354/27c12697/81625
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 12
-http://iptvtree.net:8080/766a3d10/7781c6505e/193227
+http://iptvtree.net:8080/13354/27c12697/193227
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 12 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/198539
+http://iptvtree.net:8080/13354/27c12697/198539
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 13
-http://iptvtree.net:8080/766a3d10/7781c6505e/121163
+http://iptvtree.net:8080/13354/27c12697/121163
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 14
-http://iptvtree.net:8080/766a3d10/7781c6505e/193229
+http://iptvtree.net:8080/13354/27c12697/193229
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 14 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/46734
+http://iptvtree.net:8080/13354/27c12697/46734
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV 5+
-http://iptvtree.net:8080/766a3d10/7781c6505e/193223
+http://iptvtree.net:8080/13354/27c12697/193223
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV entertainment
-http://iptvtree.net:8080/766a3d10/7781c6505e/121183
+http://iptvtree.net:8080/13354/27c12697/121183
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV Opera
-http://iptvtree.net:8080/766a3d10/7781c6505e/152370
+http://iptvtree.net:8080/13354/27c12697/152370
 #EXTINF:-1 group-title="iptvtree China",CN: CCTV Xinke Animation
-http://iptvtree.net:8080/766a3d10/7781c6505e/146863
+http://iptvtree.net:8080/13354/27c12697/146863
 #EXTINF:-1 group-title="iptvtree China",CN: CDTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/146865
+http://iptvtree.net:8080/13354/27c12697/146865
 #EXTINF:-1 group-title="iptvtree China",CN: CDTV 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/146864
+http://iptvtree.net:8080/13354/27c12697/146864
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN
-http://iptvtree.net:8080/766a3d10/7781c6505e/121185
+http://iptvtree.net:8080/13354/27c12697/121185
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN America HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146920
+http://iptvtree.net:8080/13354/27c12697/146920
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN Documentary
-http://iptvtree.net:8080/766a3d10/7781c6505e/121189
+http://iptvtree.net:8080/13354/27c12697/121189
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN en Espanol HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146919
+http://iptvtree.net:8080/13354/27c12697/146919
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN Español
-http://iptvtree.net:8080/766a3d10/7781c6505e/121190
+http://iptvtree.net:8080/13354/27c12697/121190
 #EXTINF:-1 group-title="iptvtree China",CN: CGTN Français
-http://iptvtree.net:8080/766a3d10/7781c6505e/121191
+http://iptvtree.net:8080/13354/27c12697/121191
 #EXTINF:-1 group-title="iptvtree China",CN: China Movie Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/158358
+http://iptvtree.net:8080/13354/27c12697/158358
 #EXTINF:-1 group-title="iptvtree China",CN: China Taiwan
-http://iptvtree.net:8080/766a3d10/7781c6505e/146866
+http://iptvtree.net:8080/13354/27c12697/146866
 #EXTINF:-1 group-title="iptvtree China",CN: Chongqing
-http://iptvtree.net:8080/766a3d10/7781c6505e/72454
+http://iptvtree.net:8080/13354/27c12697/72454
 #EXTINF:-1 group-title="iptvtree China",CN: City & Fashion Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146862
+http://iptvtree.net:8080/13354/27c12697/146862
 #EXTINF:-1 group-title="iptvtree China",CN: Culture & Drama
-http://iptvtree.net:8080/766a3d10/7781c6505e/146870
+http://iptvtree.net:8080/13354/27c12697/146870
 #EXTINF:-1 group-title="iptvtree China",CN: Digital Age Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146917
+http://iptvtree.net:8080/13354/27c12697/146917
 #EXTINF:-1 group-title="iptvtree China",CN: Discovery Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146830
+http://iptvtree.net:8080/13354/27c12697/146830
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/146868
+http://iptvtree.net:8080/13354/27c12697/146868
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/146874
+http://iptvtree.net:8080/13354/27c12697/146874
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/146871
+http://iptvtree.net:8080/13354/27c12697/146871
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/146873
+http://iptvtree.net:8080/13354/27c12697/146873
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 5
-http://iptvtree.net:8080/766a3d10/7781c6505e/146877
+http://iptvtree.net:8080/13354/27c12697/146877
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 6
-http://iptvtree.net:8080/766a3d10/7781c6505e/146876
+http://iptvtree.net:8080/13354/27c12697/146876
 #EXTINF:-1 group-title="iptvtree China",CN: DLTV 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/146869
+http://iptvtree.net:8080/13354/27c12697/146869
 #EXTINF:-1 group-title="iptvtree China",CN: Dragon TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/193231
+http://iptvtree.net:8080/13354/27c12697/193231
 #EXTINF:-1 group-title="iptvtree China",CN: EBC 1 TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146925
+http://iptvtree.net:8080/13354/27c12697/146925
 #EXTINF:-1 group-title="iptvtree China",CN: Economy Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146875
+http://iptvtree.net:8080/13354/27c12697/146875
 #EXTINF:-1 group-title="iptvtree China",CN: Fenghuangzw
-http://iptvtree.net:8080/766a3d10/7781c6505e/72456
+http://iptvtree.net:8080/13354/27c12697/72456
 #EXTINF:-1 group-title="iptvtree China",CN: Fenghuangzx
-http://iptvtree.net:8080/766a3d10/7781c6505e/72457
+http://iptvtree.net:8080/13354/27c12697/72457
 #EXTINF:-1 group-title="iptvtree China",CN: Fujian Straits TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/152372
+http://iptvtree.net:8080/13354/27c12697/152372
 #EXTINF:-1 group-title="iptvtree China",CN: Fuling TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146879
+http://iptvtree.net:8080/13354/27c12697/146879
 #EXTINF:-1 group-title="iptvtree China",CN: FZTV 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/146882
+http://iptvtree.net:8080/13354/27c12697/146882
 #EXTINF:-1 group-title="iptvtree China",CN: GS MY SHOP
-http://iptvtree.net:8080/766a3d10/7781c6505e/146927
+http://iptvtree.net:8080/13354/27c12697/146927
 #EXTINF:-1 group-title="iptvtree China",CN: Guangdong News Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146881
+http://iptvtree.net:8080/13354/27c12697/146881
 #EXTINF:-1 group-title="iptvtree China",CN: Guangdong public Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146886
+http://iptvtree.net:8080/13354/27c12697/146886
 #EXTINF:-1 group-title="iptvtree China",CN: Guangdong Southern TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/152368
+http://iptvtree.net:8080/13354/27c12697/152368
 #EXTINF:-1 group-title="iptvtree China",CN: Guangxi
-http://iptvtree.net:8080/766a3d10/7781c6505e/72458
+http://iptvtree.net:8080/13354/27c12697/72458
 #EXTINF:-1 group-title="iptvtree China",CN: Guangxi Movie Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146887
+http://iptvtree.net:8080/13354/27c12697/146887
 #EXTINF:-1 group-title="iptvtree China",CN: Guangxi news Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146894
+http://iptvtree.net:8080/13354/27c12697/146894
 #EXTINF:-1 group-title="iptvtree China",CN: Hebei
-http://iptvtree.net:8080/766a3d10/7781c6505e/72460
+http://iptvtree.net:8080/13354/27c12697/72460
 #EXTINF:-1 group-title="iptvtree China",CN: Heilongjiang
-http://iptvtree.net:8080/766a3d10/7781c6505e/72467
+http://iptvtree.net:8080/13354/27c12697/72467
 #EXTINF:-1 group-title="iptvtree China",CN: Henan
-http://iptvtree.net:8080/766a3d10/7781c6505e/193232
+http://iptvtree.net:8080/13354/27c12697/193232
 #EXTINF:-1 group-title="iptvtree China",CN: Hong Kong TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146844
+http://iptvtree.net:8080/13354/27c12697/146844
 #EXTINF:-1 group-title="iptvtree China",CN: Hunan
-http://iptvtree.net:8080/766a3d10/7781c6505e/72472
+http://iptvtree.net:8080/13354/27c12697/72472
 #EXTINF:-1 group-title="iptvtree China",CN: HZTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/146923
+http://iptvtree.net:8080/13354/27c12697/146923
 #EXTINF:-1 group-title="iptvtree China",CN: Jiangsu
-http://iptvtree.net:8080/766a3d10/7781c6505e/144933
+http://iptvtree.net:8080/13354/27c12697/144933
 #EXTINF:-1 group-title="iptvtree China",CN: Jiangsu International Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/158362
+http://iptvtree.net:8080/13354/27c12697/158362
 #EXTINF:-1 group-title="iptvtree China",CN: Jiangxi
-http://iptvtree.net:8080/766a3d10/7781c6505e/72464
+http://iptvtree.net:8080/13354/27c12697/72464
 #EXTINF:-1 group-title="iptvtree China",CN: Jinshan TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146892
+http://iptvtree.net:8080/13354/27c12697/146892
 #EXTINF:-1 group-title="iptvtree China",CN: KCTV 21
-http://iptvtree.net:8080/766a3d10/7781c6505e/146922
+http://iptvtree.net:8080/13354/27c12697/146922
 #EXTINF:-1 group-title="iptvtree China",CN: KZTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/146897
+http://iptvtree.net:8080/13354/27c12697/146897
 #EXTINF:-1 group-title="iptvtree China",CN: Mobile TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146893
+http://iptvtree.net:8080/13354/27c12697/146893
 #EXTINF:-1 group-title="iptvtree China",CN: NTDTV Jiadongtai
-http://iptvtree.net:8080/766a3d10/7781c6505e/146909
+http://iptvtree.net:8080/13354/27c12697/146909
 #EXTINF:-1 group-title="iptvtree China",CN: NTDTV Meidongtai
-http://iptvtree.net:8080/766a3d10/7781c6505e/146898
+http://iptvtree.net:8080/13354/27c12697/146898
 #EXTINF:-1 group-title="iptvtree China",CN: NTDTV San Francisco
-http://iptvtree.net:8080/766a3d10/7781c6505e/146905
+http://iptvtree.net:8080/13354/27c12697/146905
 #EXTINF:-1 group-title="iptvtree China",CN: NTDTV US West Taiwan
-http://iptvtree.net:8080/766a3d10/7781c6505e/146904
+http://iptvtree.net:8080/13354/27c12697/146904
 #EXTINF:-1 group-title="iptvtree China",CN: OCJ TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146908
+http://iptvtree.net:8080/13354/27c12697/146908
 #EXTINF:-1 group-title="iptvtree China",CN: Pacvia TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/152367
+http://iptvtree.net:8080/13354/27c12697/152367
 #EXTINF:-1 group-title="iptvtree China",CN: PCNE Chinese
-http://iptvtree.net:8080/766a3d10/7781c6505e/165768
+http://iptvtree.net:8080/13354/27c12697/165768
 #EXTINF:-1 group-title="iptvtree China",CN: RTHK31
-http://iptvtree.net:8080/766a3d10/7781c6505e/146851
+http://iptvtree.net:8080/13354/27c12697/146851
 #EXTINF:-1 group-title="iptvtree China",CN: SCTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/146915
+http://iptvtree.net:8080/13354/27c12697/146915
 #EXTINF:-1 group-title="iptvtree China",CN: Shandongjy
-http://iptvtree.net:8080/766a3d10/7781c6505e/72470
+http://iptvtree.net:8080/13354/27c12697/72470
 #EXTINF:-1 group-title="iptvtree China",CN: Shanxi
-http://iptvtree.net:8080/766a3d10/7781c6505e/144934
+http://iptvtree.net:8080/13354/27c12697/144934
 #EXTINF:-1 group-title="iptvtree China",CN: Shenzhen
-http://iptvtree.net:8080/766a3d10/7781c6505e/72483
+http://iptvtree.net:8080/13354/27c12697/72483
 #EXTINF:-1 group-title="iptvtree China",CN: Shenzhen Financial life
-http://iptvtree.net:8080/766a3d10/7781c6505e/146913
+http://iptvtree.net:8080/13354/27c12697/146913
 #EXTINF:-1 group-title="iptvtree China",CN: Sichuan
-http://iptvtree.net:8080/766a3d10/7781c6505e/72482
+http://iptvtree.net:8080/13354/27c12697/72482
 #EXTINF:-1 group-title="iptvtree China",CN: Star Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/146840
+http://iptvtree.net:8080/13354/27c12697/146840
 #EXTINF:-1 group-title="iptvtree China",CN: Star TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146842
+http://iptvtree.net:8080/13354/27c12697/146842
 #EXTINF:-1 group-title="iptvtree China",CN: TVS5
-http://iptvtree.net:8080/766a3d10/7781c6505e/146912
+http://iptvtree.net:8080/13354/27c12697/146912
 #EXTINF:-1 group-title="iptvtree China",CN: Universal TV Integrated
-http://iptvtree.net:8080/766a3d10/7781c6505e/146849
+http://iptvtree.net:8080/13354/27c12697/146849
 #EXTINF:-1 group-title="iptvtree China",CN: URBAN Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/146911
+http://iptvtree.net:8080/13354/27c12697/146911
 #EXTINF:-1 group-title="iptvtree China",CN: Wireless financial information desk
-http://iptvtree.net:8080/766a3d10/7781c6505e/146850
+http://iptvtree.net:8080/13354/27c12697/146850
 #EXTINF:-1 group-title="iptvtree China",CN: Xiamen TV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/146914
+http://iptvtree.net:8080/13354/27c12697/146914
 #EXTINF:-1 group-title="iptvtree China",CN: Xinjiang
-http://iptvtree.net:8080/766a3d10/7781c6505e/144935
+http://iptvtree.net:8080/13354/27c12697/144935
 #EXTINF:-1 group-title="iptvtree China",CN: XMTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/121199
+http://iptvtree.net:8080/13354/27c12697/121199
 #EXTINF:-1 group-title="iptvtree China",CN: XMTV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/121198
+http://iptvtree.net:8080/13354/27c12697/121198
 #EXTINF:-1 group-title="iptvtree China",CN: XMTV 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/121201
+http://iptvtree.net:8080/13354/27c12697/121201
 #EXTINF:-1 group-title="iptvtree China",CN: XMTV Star
-http://iptvtree.net:8080/766a3d10/7781c6505e/121202
+http://iptvtree.net:8080/13354/27c12697/121202
 #EXTINF:-1 group-title="iptvtree China",CN: Yao Cai Finance Station
-http://iptvtree.net:8080/766a3d10/7781c6505e/146854
+http://iptvtree.net:8080/13354/27c12697/146854
 #EXTINF:-1 group-title="iptvtree China",CN: Zhejiang
-http://iptvtree.net:8080/766a3d10/7781c6505e/145082
+http://iptvtree.net:8080/13354/27c12697/145082
 
 
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: & Drama
-http://iptvtree.net:8080/766a3d10/7781c6505e/144980
+http://iptvtree.net:8080/13354/27c12697/144980
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: & Financial News
-http://iptvtree.net:8080/766a3d10/7781c6505e/152374
+http://iptvtree.net:8080/13354/27c12697/152374
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: & Global
-http://iptvtree.net:8080/766a3d10/7781c6505e/144995
+http://iptvtree.net:8080/13354/27c12697/144995
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: & News
-http://iptvtree.net:8080/766a3d10/7781c6505e/144989
+http://iptvtree.net:8080/13354/27c12697/144989
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: &Chinese
-http://iptvtree.net:8080/766a3d10/7781c6505e/145091
+http://iptvtree.net:8080/13354/27c12697/145091
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: CTS America
-http://iptvtree.net:8080/766a3d10/7781c6505e/144998
+http://iptvtree.net:8080/13354/27c12697/144998
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Formosa TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/152377
+http://iptvtree.net:8080/13354/27c12697/152377
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: FTV News
-http://iptvtree.net:8080/766a3d10/7781c6505e/144937
+http://iptvtree.net:8080/13354/27c12697/144937
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD True blog
-http://iptvtree.net:8080/766a3d10/7781c6505e/144955
+http://iptvtree.net:8080/13354/27c12697/144955
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD TV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/144941
+http://iptvtree.net:8080/13354/27c12697/144941
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD TV 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/144940
+http://iptvtree.net:8080/13354/27c12697/144940
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD TV 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/144942
+http://iptvtree.net:8080/13354/27c12697/144942
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD TV 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/144956
+http://iptvtree.net:8080/13354/27c12697/144956
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: GOOD TV 9
-http://iptvtree.net:8080/766a3d10/7781c6505e/144957
+http://iptvtree.net:8080/13354/27c12697/144957
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Great Wall Elite
-http://iptvtree.net:8080/766a3d10/7781c6505e/152371
+http://iptvtree.net:8080/13354/27c12697/152371
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Great Wall Fresh
-http://iptvtree.net:8080/766a3d10/7781c6505e/152378
+http://iptvtree.net:8080/13354/27c12697/152378
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: iCiTi
-http://iptvtree.net:8080/766a3d10/7781c6505e/152382
+http://iptvtree.net:8080/13354/27c12697/152382
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Ideal Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/144952
+http://iptvtree.net:8080/13354/27c12697/144952
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Now Chinese Drama Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/144968
+http://iptvtree.net:8080/13354/27c12697/144968
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Now Drama Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/144985
+http://iptvtree.net:8080/13354/27c12697/144985
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Now Jelli
-http://iptvtree.net:8080/766a3d10/7781c6505e/144975
+http://iptvtree.net:8080/13354/27c12697/144975
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Now News HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/144976
+http://iptvtree.net:8080/13354/27c12697/144976
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: NTD Asia
-http://iptvtree.net:8080/766a3d10/7781c6505e/144974
+http://iptvtree.net:8080/13354/27c12697/144974
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: NTD TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/144948
+http://iptvtree.net:8080/13354/27c12697/144948
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Phoenix Hong Kong HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/144964
+http://iptvtree.net:8080/13354/27c12697/144964
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Phoenix InfoNews
-http://iptvtree.net:8080/766a3d10/7781c6505e/158363
+http://iptvtree.net:8080/13354/27c12697/158363
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Phoenix North America Chinese Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/152380
+http://iptvtree.net:8080/13354/27c12697/152380
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: RTHK31
-http://iptvtree.net:8080/766a3d10/7781c6505e/187264
+http://iptvtree.net:8080/13354/27c12697/187264
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: RTHK32
-http://iptvtree.net:8080/766a3d10/7781c6505e/187265
+http://iptvtree.net:8080/13354/27c12697/187265
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Shinichi TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/144979
+http://iptvtree.net:8080/13354/27c12697/144979
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Skylink Television
-http://iptvtree.net:8080/766a3d10/7781c6505e/152373
+http://iptvtree.net:8080/13354/27c12697/152373
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/152376
+http://iptvtree.net:8080/13354/27c12697/152376
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Tv news
-http://iptvtree.net:8080/766a3d10/7781c6505e/144981
+http://iptvtree.net:8080/13354/27c12697/144981
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TVB Drama
-http://iptvtree.net:8080/766a3d10/7781c6505e/152379
+http://iptvtree.net:8080/13354/27c12697/152379
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TVB Jade
-http://iptvtree.net:8080/766a3d10/7781c6505e/195642
+http://iptvtree.net:8080/13354/27c12697/195642
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TVB1
-http://iptvtree.net:8080/766a3d10/7781c6505e/158364
+http://iptvtree.net:8080/13354/27c12697/158364
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TVBE
-http://iptvtree.net:8080/766a3d10/7781c6505e/144999
+http://iptvtree.net:8080/13354/27c12697/144999
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: TVBJ-2
-http://iptvtree.net:8080/766a3d10/7781c6505e/187266
+http://iptvtree.net:8080/13354/27c12697/187266
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: USTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/158365
+http://iptvtree.net:8080/13354/27c12697/158365
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: Wonderful TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/144961
+http://iptvtree.net:8080/13354/27c12697/144961
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",HK: YoYo
-http://iptvtree.net:8080/766a3d10/7781c6505e/152375
+http://iptvtree.net:8080/13354/27c12697/152375
 
 
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",TW: Fashion TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146831
+http://iptvtree.net:8080/13354/27c12697/146831
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",TW: Macau Satellite TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146832
+http://iptvtree.net:8080/13354/27c12697/146832
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",TW: Vision HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146847
+http://iptvtree.net:8080/13354/27c12697/146847
 #EXTINF:-1 group-title="iptvtree Hongkong Taiwan",TW: Xinji TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146843
+http://iptvtree.net:8080/13354/27c12697/146843
 
 
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: ABC Australia
-http://iptvtree.net:8080/766a3d10/7781c6505e/165056
+http://iptvtree.net:8080/13354/27c12697/165056
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Anhui TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197954
+http://iptvtree.net:8080/13354/27c12697/197954
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: ANIMAL PLANET
-http://iptvtree.net:8080/766a3d10/7781c6505e/162514
+http://iptvtree.net:8080/13354/27c12697/162514
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Animax
-http://iptvtree.net:8080/766a3d10/7781c6505e/165081
+http://iptvtree.net:8080/13354/27c12697/165081
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Baby First
-http://iptvtree.net:8080/766a3d10/7781c6505e/197963
+http://iptvtree.net:8080/13354/27c12697/197963
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Bali TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197962
+http://iptvtree.net:8080/13354/27c12697/197962
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Balikpapan TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166409
+http://iptvtree.net:8080/13354/27c12697/166409
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Bandung TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166416
+http://iptvtree.net:8080/13354/27c12697/166416
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: BBC World News
-http://iptvtree.net:8080/766a3d10/7781c6505e/165090
+http://iptvtree.net:8080/13354/27c12697/165090
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Berita Satu
-http://iptvtree.net:8080/766a3d10/7781c6505e/162513
+http://iptvtree.net:8080/13354/27c12697/162513
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Berita Satu News Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/166389
+http://iptvtree.net:8080/13354/27c12697/166389
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Berita Satu World
-http://iptvtree.net:8080/766a3d10/7781c6505e/162136
+http://iptvtree.net:8080/13354/27c12697/162136
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Blue Ant Entertainment
-http://iptvtree.net:8080/766a3d10/7781c6505e/196551
+http://iptvtree.net:8080/13354/27c12697/196551
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Blue Ant Extreme
-http://iptvtree.net:8080/766a3d10/7781c6505e/196552
+http://iptvtree.net:8080/13354/27c12697/196552
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Boomerang
-http://iptvtree.net:8080/766a3d10/7781c6505e/165109
+http://iptvtree.net:8080/13354/27c12697/165109
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Bungo TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/162142
+http://iptvtree.net:8080/13354/27c12697/162142
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Cartoon Network
-http://iptvtree.net:8080/766a3d10/7781c6505e/157593
+http://iptvtree.net:8080/13354/27c12697/157593
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Channel V
-http://iptvtree.net:8080/766a3d10/7781c6505e/157604
+http://iptvtree.net:8080/13354/27c12697/157604
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Cinema World
-http://iptvtree.net:8080/766a3d10/7781c6505e/165082
+http://iptvtree.net:8080/13354/27c12697/165082
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Cinemax
-http://iptvtree.net:8080/766a3d10/7781c6505e/197964
+http://iptvtree.net:8080/13354/27c12697/197964
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: CNN
-http://iptvtree.net:8080/766a3d10/7781c6505e/162521
+http://iptvtree.net:8080/13354/27c12697/162521
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: CNN Indonesia
-http://iptvtree.net:8080/766a3d10/7781c6505e/162137
+http://iptvtree.net:8080/13354/27c12697/162137
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Discovery Asia
-http://iptvtree.net:8080/766a3d10/7781c6505e/197968
+http://iptvtree.net:8080/13354/27c12697/197968
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Discovery Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/157597
+http://iptvtree.net:8080/13354/27c12697/157597
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Disney Junior
-http://iptvtree.net:8080/766a3d10/7781c6505e/162511
+http://iptvtree.net:8080/13354/27c12697/162511
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Dreamworks
-http://iptvtree.net:8080/766a3d10/7781c6505e/157610
+http://iptvtree.net:8080/13354/27c12697/157610
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: EWTN
-http://iptvtree.net:8080/766a3d10/7781c6505e/197960
+http://iptvtree.net:8080/13354/27c12697/197960
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: FashionTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/196455
+http://iptvtree.net:8080/13354/27c12697/196455
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Fox
-http://iptvtree.net:8080/766a3d10/7781c6505e/165080
+http://iptvtree.net:8080/13354/27c12697/165080
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Fox Action Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/197971
+http://iptvtree.net:8080/13354/27c12697/197971
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Fox Life
-http://iptvtree.net:8080/766a3d10/7781c6505e/165083
+http://iptvtree.net:8080/13354/27c12697/165083
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Fox Movies Premium
-http://iptvtree.net:8080/766a3d10/7781c6505e/197970
+http://iptvtree.net:8080/13354/27c12697/197970
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: FOX SPORTS 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/162517
+http://iptvtree.net:8080/13354/27c12697/162517
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: FOX SPORTS 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/162516
+http://iptvtree.net:8080/13354/27c12697/162516
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: FOX SPORTS 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/165088
+http://iptvtree.net:8080/13354/27c12697/165088
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: FX
-http://iptvtree.net:8080/766a3d10/7781c6505e/165084
+http://iptvtree.net:8080/13354/27c12697/165084
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: GTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157578
+http://iptvtree.net:8080/13354/27c12697/157578
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: HBO
-http://iptvtree.net:8080/766a3d10/7781c6505e/197972
+http://iptvtree.net:8080/13354/27c12697/197972
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: HGTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/162518
+http://iptvtree.net:8080/13354/27c12697/162518
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: History
-http://iptvtree.net:8080/766a3d10/7781c6505e/162519
+http://iptvtree.net:8080/13354/27c12697/162519
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Hits
-http://iptvtree.net:8080/766a3d10/7781c6505e/165085
+http://iptvtree.net:8080/13354/27c12697/165085
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: IDX
-http://iptvtree.net:8080/766a3d10/7781c6505e/157590
+http://iptvtree.net:8080/13354/27c12697/157590
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Indosiar
-http://iptvtree.net:8080/766a3d10/7781c6505e/162138
+http://iptvtree.net:8080/13354/27c12697/162138
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: iNews
-http://iptvtree.net:8080/766a3d10/7781c6505e/157579
+http://iptvtree.net:8080/13354/27c12697/157579
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Insan TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/162143
+http://iptvtree.net:8080/13354/27c12697/162143
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Inspira TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166412
+http://iptvtree.net:8080/13354/27c12697/166412
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Jakarta Globe
-http://iptvtree.net:8080/766a3d10/7781c6505e/166704
+http://iptvtree.net:8080/13354/27c12697/166704
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Jakarta Globe News Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/166399
+http://iptvtree.net:8080/13354/27c12697/166399
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: JakTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157601
+http://iptvtree.net:8080/13354/27c12697/157601
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: JTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165091
+http://iptvtree.net:8080/13354/27c12697/165091
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: K+
-http://iptvtree.net:8080/766a3d10/7781c6505e/197969
+http://iptvtree.net:8080/13354/27c12697/197969
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: KBS World
-http://iptvtree.net:8080/766a3d10/7781c6505e/197053
+http://iptvtree.net:8080/13354/27c12697/197053
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Kids TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/162505
+http://iptvtree.net:8080/13354/27c12697/162505
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: KiX
-http://iptvtree.net:8080/766a3d10/7781c6505e/165068
+http://iptvtree.net:8080/13354/27c12697/165068
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Kompas TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197114
+http://iptvtree.net:8080/13354/27c12697/197114
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Metro TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165059
+http://iptvtree.net:8080/13354/27c12697/165059
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: MNC News
-http://iptvtree.net:8080/766a3d10/7781c6505e/165058
+http://iptvtree.net:8080/13354/27c12697/165058
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: MNC Shop Trendy
-http://iptvtree.net:8080/766a3d10/7781c6505e/197957
+http://iptvtree.net:8080/13354/27c12697/197957
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: MNC Sport
-http://iptvtree.net:8080/766a3d10/7781c6505e/157589
+http://iptvtree.net:8080/13354/27c12697/157589
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: MNC Sport 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/197973
+http://iptvtree.net:8080/13354/27c12697/197973
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: MNCTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165054
+http://iptvtree.net:8080/13354/27c12697/165054
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Music TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165108
+http://iptvtree.net:8080/13354/27c12697/165108
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Muslim TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197959
+http://iptvtree.net:8080/13354/27c12697/197959
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: NAT GEO
-http://iptvtree.net:8080/766a3d10/7781c6505e/165094
+http://iptvtree.net:8080/13354/27c12697/165094
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: NAT GEO People
-http://iptvtree.net:8080/766a3d10/7781c6505e/197966
+http://iptvtree.net:8080/13354/27c12697/197966
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: NAT GEO Wild
-http://iptvtree.net:8080/766a3d10/7781c6505e/197967
+http://iptvtree.net:8080/13354/27c12697/197967
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Net. TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165067
+http://iptvtree.net:8080/13354/27c12697/165067
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: NHK World Premium
-http://iptvtree.net:8080/766a3d10/7781c6505e/197961
+http://iptvtree.net:8080/13354/27c12697/197961
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: nickelodeon
-http://iptvtree.net:8080/766a3d10/7781c6505e/162510
+http://iptvtree.net:8080/13354/27c12697/162510
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Nusantara TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166410
+http://iptvtree.net:8080/13354/27c12697/166410
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: RT English
-http://iptvtree.net:8080/766a3d10/7781c6505e/197955
+http://iptvtree.net:8080/13354/27c12697/197955
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: RTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/196457
+http://iptvtree.net:8080/13354/27c12697/196457
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: SCTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/162141
+http://iptvtree.net:8080/13354/27c12697/162141
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Shanghai Dragon TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/197956
+http://iptvtree.net:8080/13354/27c12697/197956
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Sony One
-http://iptvtree.net:8080/766a3d10/7781c6505e/165077
+http://iptvtree.net:8080/13354/27c12697/165077
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Surau TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/166408
+http://iptvtree.net:8080/13354/27c12697/166408
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Tawaf TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/196478
+http://iptvtree.net:8080/13354/27c12697/196478
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Tegar TV Jogja
-http://iptvtree.net:8080/766a3d10/7781c6505e/166400
+http://iptvtree.net:8080/13354/27c12697/166400
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Tegar TV Lampung
-http://iptvtree.net:8080/766a3d10/7781c6505e/166411
+http://iptvtree.net:8080/13354/27c12697/166411
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Thrill
-http://iptvtree.net:8080/766a3d10/7781c6505e/157580
+http://iptvtree.net:8080/13354/27c12697/157580
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Trans 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/197974
+http://iptvtree.net:8080/13354/27c12697/197974
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TV Ku
-http://iptvtree.net:8080/766a3d10/7781c6505e/166709
+http://iptvtree.net:8080/13354/27c12697/166709
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVMu
-http://iptvtree.net:8080/766a3d10/7781c6505e/196459
+http://iptvtree.net:8080/13354/27c12697/196459
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVN
-http://iptvtree.net:8080/766a3d10/7781c6505e/197965
+http://iptvtree.net:8080/13354/27c12697/197965
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TvN Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/157596
+http://iptvtree.net:8080/13354/27c12697/157596
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVRI
-http://iptvtree.net:8080/766a3d10/7781c6505e/162504
+http://iptvtree.net:8080/13354/27c12697/162504
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVRI Kanal 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/166687
+http://iptvtree.net:8080/13354/27c12697/166687
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVRI Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/166686
+http://iptvtree.net:8080/13354/27c12697/166686
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: TVRI Sulawesi Barat
-http://iptvtree.net:8080/766a3d10/7781c6505e/166699
+http://iptvtree.net:8080/13354/27c12697/166699
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: U Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/162146
+http://iptvtree.net:8080/13354/27c12697/162146
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Waku-Waku Japan
-http://iptvtree.net:8080/766a3d10/7781c6505e/157598
+http://iptvtree.net:8080/13354/27c12697/157598
 #EXTINF:-1 group-title="iptvtree Indonesia",ID: Warner TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157594
+http://iptvtree.net:8080/13354/27c12697/157594
 
 
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Arirang HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145039
+http://iptvtree.net:8080/13354/27c12697/145039
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Arirang World
-http://iptvtree.net:8080/766a3d10/7781c6505e/166017
+http://iptvtree.net:8080/13354/27c12697/166017
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Arirangea
-http://iptvtree.net:8080/766a3d10/7781c6505e/121941
+http://iptvtree.net:8080/13354/27c12697/121941
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Arte
-http://iptvtree.net:8080/766a3d10/7781c6505e/78444
+http://iptvtree.net:8080/13354/27c12697/78444
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: BBS TV FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78446
+http://iptvtree.net:8080/13354/27c12697/78446
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: CBS
-http://iptvtree.net:8080/766a3d10/7781c6505e/23404
+http://iptvtree.net:8080/13354/27c12697/23404
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Cchannel
-http://iptvtree.net:8080/766a3d10/7781c6505e/78441
+http://iptvtree.net:8080/13354/27c12697/78441
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: CGN TV Chinese
-http://iptvtree.net:8080/766a3d10/7781c6505e/166403
+http://iptvtree.net:8080/13354/27c12697/166403
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: CJmall
-http://iptvtree.net:8080/766a3d10/7781c6505e/78448
+http://iptvtree.net:8080/13354/27c12697/78448
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: CPBC TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78450
+http://iptvtree.net:8080/13354/27c12697/78450
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: CTS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78455
+http://iptvtree.net:8080/13354/27c12697/78455
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/145040
+http://iptvtree.net:8080/13354/27c12697/145040
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78449
+http://iptvtree.net:8080/13354/27c12697/78449
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS e HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78447
+http://iptvtree.net:8080/13354/27c12697/78447
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS English
-http://iptvtree.net:8080/766a3d10/7781c6505e/145042
+http://iptvtree.net:8080/13354/27c12697/145042
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS FM HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78445
+http://iptvtree.net:8080/13354/27c12697/78445
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS I HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78453
+http://iptvtree.net:8080/13354/27c12697/78453
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS KIDS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78452
+http://iptvtree.net:8080/13354/27c12697/78452
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS Plus 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/166339
+http://iptvtree.net:8080/13354/27c12697/166339
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS Plus 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/166071
+http://iptvtree.net:8080/13354/27c12697/166071
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS+ 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/145044
+http://iptvtree.net:8080/13354/27c12697/145044
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS+ 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/145045
+http://iptvtree.net:8080/13354/27c12697/145045
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78454
+http://iptvtree.net:8080/13354/27c12697/78454
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBS2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78456
+http://iptvtree.net:8080/13354/27c12697/78456
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBSe
-http://iptvtree.net:8080/766a3d10/7781c6505e/145046
+http://iptvtree.net:8080/13354/27c12697/145046
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: EBSi
-http://iptvtree.net:8080/766a3d10/7781c6505e/145047
+http://iptvtree.net:8080/13354/27c12697/145047
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Edaily TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78458
+http://iptvtree.net:8080/13354/27c12697/78458
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: ETN
-http://iptvtree.net:8080/766a3d10/7781c6505e/145096
+http://iptvtree.net:8080/13354/27c12697/145096
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: FGTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78451
+http://iptvtree.net:8080/13354/27c12697/78451
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: G1
-http://iptvtree.net:8080/766a3d10/7781c6505e/145116
+http://iptvtree.net:8080/13354/27c12697/145116
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: GCN
-http://iptvtree.net:8080/766a3d10/7781c6505e/78457
+http://iptvtree.net:8080/13354/27c12697/78457
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Good TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78459
+http://iptvtree.net:8080/13354/27c12697/78459
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: GS MY SHOP
-http://iptvtree.net:8080/766a3d10/7781c6505e/121933
+http://iptvtree.net:8080/13354/27c12697/121933
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: GS SHOP
-http://iptvtree.net:8080/766a3d10/7781c6505e/78466
+http://iptvtree.net:8080/13354/27c12697/78466
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Home & Shopping HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78461
+http://iptvtree.net:8080/13354/27c12697/78461
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Hyundai Hmall HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78468
+http://iptvtree.net:8080/13354/27c12697/78468
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Hyundai Mall
-http://iptvtree.net:8080/766a3d10/7781c6505e/166100
+http://iptvtree.net:8080/13354/27c12697/166100
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: IM Shopping
-http://iptvtree.net:8080/766a3d10/7781c6505e/78463
+http://iptvtree.net:8080/13354/27c12697/78463
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: KCTV CH 05 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/121938
+http://iptvtree.net:8080/13354/27c12697/121938
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: KCTV CH21 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/121948
+http://iptvtree.net:8080/13354/27c12697/121948
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: KFN TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78472
+http://iptvtree.net:8080/13354/27c12697/78472
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: KURDISTAN 24
-http://iptvtree.net:8080/766a3d10/7781c6505e/192135
+http://iptvtree.net:8080/13354/27c12697/192135
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: KURDSAT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192066
+http://iptvtree.net:8080/13354/27c12697/192066
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Lalish TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/198946
+http://iptvtree.net:8080/13354/27c12697/198946
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Lotte Homeshopping HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78475
+http://iptvtree.net:8080/13354/27c12697/78475
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: M20 TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/78474
+http://iptvtree.net:8080/13354/27c12697/78474
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: MED MUSIC
-http://iptvtree.net:8080/766a3d10/7781c6505e/192065
+http://iptvtree.net:8080/13354/27c12697/192065
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: MEDYA HABER
-http://iptvtree.net:8080/766a3d10/7781c6505e/198942
+http://iptvtree.net:8080/13354/27c12697/198942
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: MTN
-http://iptvtree.net:8080/766a3d10/7781c6505e/78480
+http://iptvtree.net:8080/13354/27c12697/78480
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: NS Home Shopping HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/78483
+http://iptvtree.net:8080/13354/27c12697/78483
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Olympic Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/121943
+http://iptvtree.net:8080/13354/27c12697/121943
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: RONAHI TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/198943
+http://iptvtree.net:8080/13354/27c12697/198943
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: RUDAW TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/192137
+http://iptvtree.net:8080/13354/27c12697/192137
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: SBS Star
-http://iptvtree.net:8080/766a3d10/7781c6505e/145058
+http://iptvtree.net:8080/13354/27c12697/145058
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: SBS+
-http://iptvtree.net:8080/766a3d10/7781c6505e/145051
+http://iptvtree.net:8080/13354/27c12697/145051
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: SPEDA
-http://iptvtree.net:8080/766a3d10/7781c6505e/198945
+http://iptvtree.net:8080/13354/27c12697/198945
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: Suroyo TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/198947
+http://iptvtree.net:8080/13354/27c12697/198947
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: TRT KURDI HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/192138
+http://iptvtree.net:8080/13354/27c12697/192138
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: WAAR TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/192067
+http://iptvtree.net:8080/13354/27c12697/192067
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: WBC
-http://iptvtree.net:8080/766a3d10/7781c6505e/78488
+http://iptvtree.net:8080/13354/27c12697/78488
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: YTN DMB
-http://iptvtree.net:8080/766a3d10/7781c6505e/145059
+http://iptvtree.net:8080/13354/27c12697/145059
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: YTN Science
-http://iptvtree.net:8080/766a3d10/7781c6505e/145049
+http://iptvtree.net:8080/13354/27c12697/145049
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: ZAGROS TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/192136
+http://iptvtree.net:8080/13354/27c12697/192136
 #EXTINF:-1 group-title="iptvtree Korea Japan",KR: ZAROK TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/198944
+http://iptvtree.net:8080/13354/27c12697/198944
 
 
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: GSTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/158646
+http://iptvtree.net:8080/13354/27c12697/158646
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japan Channel DX
-http://iptvtree.net:8080/766a3d10/7781c6505e/145055
+http://iptvtree.net:8080/13354/27c12697/145055
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japanese food 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/145064
+http://iptvtree.net:8080/13354/27c12697/145064
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japanese food 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/145056
+http://iptvtree.net:8080/13354/27c12697/145056
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japanese food 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/145057
+http://iptvtree.net:8080/13354/27c12697/145057
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japanese food 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/145061
+http://iptvtree.net:8080/13354/27c12697/145061
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Japanet Channel DX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158647
+http://iptvtree.net:8080/13354/27c12697/158647
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: NHK Vision
-http://iptvtree.net:8080/766a3d10/7781c6505e/145053
+http://iptvtree.net:8080/13354/27c12697/145053
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: NHK World
-http://iptvtree.net:8080/766a3d10/7781c6505e/165456
+http://iptvtree.net:8080/13354/27c12697/165456
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: NHK WORLD EN
-http://iptvtree.net:8080/766a3d10/7781c6505e/49667
+http://iptvtree.net:8080/13354/27c12697/49667
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: NHK World Japan
-http://iptvtree.net:8080/766a3d10/7781c6505e/145052
+http://iptvtree.net:8080/13354/27c12697/145052
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: NHK World Japan English HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158648
+http://iptvtree.net:8080/13354/27c12697/158648
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: QVC Japan HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158649
+http://iptvtree.net:8080/13354/27c12697/158649
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Shop Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158650
+http://iptvtree.net:8080/13354/27c12697/158650
 #EXTINF:-1 group-title="iptvtree Korea Japan",JP: Weather news
-http://iptvtree.net:8080/766a3d10/7781c6505e/145063
+http://iptvtree.net:8080/13354/27c12697/145063
 
 
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: 8TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/171968
+http://iptvtree.net:8080/13354/27c12697/171968
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ABC AUSTRALIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157526
+http://iptvtree.net:8080/13354/27c12697/157526
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ABO Movie Thangathirai
-http://iptvtree.net:8080/766a3d10/7781c6505e/157571
+http://iptvtree.net:8080/13354/27c12697/157571
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ABO Tayangan Hebat
-http://iptvtree.net:8080/766a3d10/7781c6505e/195647
+http://iptvtree.net:8080/13354/27c12697/195647
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ADITHYA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157469
+http://iptvtree.net:8080/13354/27c12697/157469
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AEC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157508
+http://iptvtree.net:8080/13354/27c12697/157508
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AFN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157549
+http://iptvtree.net:8080/13354/27c12697/157549
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AL JAZEERA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157525
+http://iptvtree.net:8080/13354/27c12697/157525
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ANIMAL PLANET HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157532
+http://iptvtree.net:8080/13354/27c12697/157532
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ANIMAX
-http://iptvtree.net:8080/766a3d10/7781c6505e/157486
+http://iptvtree.net:8080/13354/27c12697/157486
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ANIPLUS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157566
+http://iptvtree.net:8080/13354/27c12697/157566
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AOD 351 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157511
+http://iptvtree.net:8080/13354/27c12697/157511
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AOD 352 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157516
+http://iptvtree.net:8080/13354/27c12697/157516
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AOD 353 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157515
+http://iptvtree.net:8080/13354/27c12697/157515
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AOD 354 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157474
+http://iptvtree.net:8080/13354/27c12697/157474
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AOD 355 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157517
+http://iptvtree.net:8080/13354/27c12697/157517
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASIAN FOOD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174678
+http://iptvtree.net:8080/13354/27c12697/174678
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO ARENA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157485
+http://iptvtree.net:8080/13354/27c12697/157485
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO ASSP 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157557
+http://iptvtree.net:8080/13354/27c12697/157557
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO ASSP 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157558
+http://iptvtree.net:8080/13354/27c12697/157558
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO ASSP HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157559
+http://iptvtree.net:8080/13354/27c12697/157559
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO ASSP2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157556
+http://iptvtree.net:8080/13354/27c12697/157556
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Astro Aura HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171986
+http://iptvtree.net:8080/13354/27c12697/171986
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO AWANI
-http://iptvtree.net:8080/766a3d10/7781c6505e/157478
+http://iptvtree.net:8080/13354/27c12697/157478
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO CERIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157481
+http://iptvtree.net:8080/13354/27c12697/157481
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO CRICKET
-http://iptvtree.net:8080/766a3d10/7781c6505e/157565
+http://iptvtree.net:8080/13354/27c12697/157565
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO HELLO
-http://iptvtree.net:8080/766a3d10/7781c6505e/157543
+http://iptvtree.net:8080/13354/27c12697/157543
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO NAURA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157490
+http://iptvtree.net:8080/13354/27c12697/157490
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO OASIS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157489
+http://iptvtree.net:8080/13354/27c12697/157489
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO PRIMA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157467
+http://iptvtree.net:8080/13354/27c12697/157467
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Astro Rania HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171984
+http://iptvtree.net:8080/13354/27c12697/171984
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO RIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158347
+http://iptvtree.net:8080/13354/27c12697/158347
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO RUGBY PASS TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157564
+http://iptvtree.net:8080/13354/27c12697/157564
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO SUPERSPORT 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146068
+http://iptvtree.net:8080/13354/27c12697/146068
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO SUPERSPORT 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/196476
+http://iptvtree.net:8080/13354/27c12697/196476
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO SUPERSPORT 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/196477
+http://iptvtree.net:8080/13354/27c12697/196477
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO SUPERSPORT 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/197051
+http://iptvtree.net:8080/13354/27c12697/197051
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO VINMEEN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174718
+http://iptvtree.net:8080/13354/27c12697/174718
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO WARNA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157492
+http://iptvtree.net:8080/13354/27c12697/157492
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ASTRO XIAO TYANG
-http://iptvtree.net:8080/766a3d10/7781c6505e/174728
+http://iptvtree.net:8080/13354/27c12697/174728
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: AXN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157542
+http://iptvtree.net:8080/13354/27c12697/157542
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Baby TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/182397
+http://iptvtree.net:8080/13354/27c12697/182397
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BBC Earth HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171979
+http://iptvtree.net:8080/13354/27c12697/171979
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BBC Lifestyle
-http://iptvtree.net:8080/766a3d10/7781c6505e/171976
+http://iptvtree.net:8080/13354/27c12697/171976
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BBC News HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157522
+http://iptvtree.net:8080/13354/27c12697/157522
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: beIN Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/157561
+http://iptvtree.net:8080/13354/27c12697/157561
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: beIN Sports DIFF
-http://iptvtree.net:8080/766a3d10/7781c6505e/199719
+http://iptvtree.net:8080/13354/27c12697/199719
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: beIN Sports ENG 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/199720
+http://iptvtree.net:8080/13354/27c12697/199720
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: beIN Sports ENG 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/197052
+http://iptvtree.net:8080/13354/27c12697/197052
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: beIN Sports MAX
-http://iptvtree.net:8080/766a3d10/7781c6505e/157487
+http://iptvtree.net:8080/13354/27c12697/157487
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BLOOMBERG TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157533
+http://iptvtree.net:8080/13354/27c12697/157533
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Blue Ant Entertainment
-http://iptvtree.net:8080/766a3d10/7781c6505e/171983
+http://iptvtree.net:8080/13354/27c12697/171983
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Blue Ant Extreme
-http://iptvtree.net:8080/766a3d10/7781c6505e/171960
+http://iptvtree.net:8080/13354/27c12697/171960
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BNC
-http://iptvtree.net:8080/766a3d10/7781c6505e/157521
+http://iptvtree.net:8080/13354/27c12697/157521
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BOLLY ONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174688
+http://iptvtree.net:8080/13354/27c12697/174688
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BOLLYONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157470
+http://iptvtree.net:8080/13354/27c12697/157470
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Boomerang HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171955
+http://iptvtree.net:8080/13354/27c12697/171955
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: BOOMERANG HD KD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174683
+http://iptvtree.net:8080/13354/27c12697/174683
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CARTOON NETWORK
-http://iptvtree.net:8080/766a3d10/7781c6505e/174684
+http://iptvtree.net:8080/13354/27c12697/174684
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CARTOON NTWK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157540
+http://iptvtree.net:8080/13354/27c12697/157540
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CCM
-http://iptvtree.net:8080/766a3d10/7781c6505e/157512
+http://iptvtree.net:8080/13354/27c12697/157512
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CCTV4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157514
+http://iptvtree.net:8080/13354/27c12697/157514
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CELESTIAL HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157471
+http://iptvtree.net:8080/13354/27c12697/157471
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CELESTIAL Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/174687
+http://iptvtree.net:8080/13354/27c12697/174687
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CHUTTI TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157495
+http://iptvtree.net:8080/13354/27c12697/157495
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Cinema World HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171956
+http://iptvtree.net:8080/13354/27c12697/171956
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CINEMAX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157519
+http://iptvtree.net:8080/13354/27c12697/157519
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CNA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157524
+http://iptvtree.net:8080/13354/27c12697/157524
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CNBC
-http://iptvtree.net:8080/766a3d10/7781c6505e/157529
+http://iptvtree.net:8080/13354/27c12697/157529
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CNN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157523
+http://iptvtree.net:8080/13354/27c12697/157523
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Colors Cineplex
-http://iptvtree.net:8080/766a3d10/7781c6505e/171957
+http://iptvtree.net:8080/13354/27c12697/171957
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: COLORS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157468
+http://iptvtree.net:8080/13354/27c12697/157468
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: COLORS TAMIL
-http://iptvtree.net:8080/766a3d10/7781c6505e/157504
+http://iptvtree.net:8080/13354/27c12697/157504
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: COMEDY CENTRAL
-http://iptvtree.net:8080/766a3d10/7781c6505e/157552
+http://iptvtree.net:8080/13354/27c12697/157552
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Crime+ Investigation HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157554
+http://iptvtree.net:8080/13354/27c12697/157554
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: CTI ASIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157509
+http://iptvtree.net:8080/13354/27c12697/157509
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Discovery ASIA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157536
+http://iptvtree.net:8080/13354/27c12697/157536
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Discovery Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157528
+http://iptvtree.net:8080/13354/27c12697/157528
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Discovery Science HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157530
+http://iptvtree.net:8080/13354/27c12697/157530
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Disney Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157482
+http://iptvtree.net:8080/13354/27c12697/157482
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Disney JUNIOR
-http://iptvtree.net:8080/766a3d10/7781c6505e/157539
+http://iptvtree.net:8080/13354/27c12697/157539
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Disney XD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157544
+http://iptvtree.net:8080/13354/27c12697/157544
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: DMAX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158351
+http://iptvtree.net:8080/13354/27c12697/158351
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Drama Sangat
-http://iptvtree.net:8080/766a3d10/7781c6505e/171954
+http://iptvtree.net:8080/13354/27c12697/171954
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Dreamworks HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171959
+http://iptvtree.net:8080/13354/27c12697/171959
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Dunia Sinema
-http://iptvtree.net:8080/766a3d10/7781c6505e/171969
+http://iptvtree.net:8080/13354/27c12697/171969
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: DW HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157573
+http://iptvtree.net:8080/13354/27c12697/157573
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: eGG Network
-http://iptvtree.net:8080/766a3d10/7781c6505e/157484
+http://iptvtree.net:8080/13354/27c12697/157484
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: EUROSPORT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158353
+http://iptvtree.net:8080/13354/27c12697/158353
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOOD NTWK HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157547
+http://iptvtree.net:8080/13354/27c12697/157547
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX Action Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/157575
+http://iptvtree.net:8080/13354/27c12697/157575
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX Family Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/157570
+http://iptvtree.net:8080/13354/27c12697/157570
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158356
+http://iptvtree.net:8080/13354/27c12697/158356
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX Life HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171961
+http://iptvtree.net:8080/13354/27c12697/171961
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Fox Movies Action HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174714
+http://iptvtree.net:8080/13354/27c12697/174714
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX Movies HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171962
+http://iptvtree.net:8080/13354/27c12697/171962
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Fox Movies Premium
-http://iptvtree.net:8080/766a3d10/7781c6505e/174690
+http://iptvtree.net:8080/13354/27c12697/174690
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX SPORTS 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/174721
+http://iptvtree.net:8080/13354/27c12697/174721
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX SPORTS 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157488
+http://iptvtree.net:8080/13354/27c12697/157488
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX SPORTS 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157560
+http://iptvtree.net:8080/13354/27c12697/157560
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FOX SPORTS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171978
+http://iptvtree.net:8080/13354/27c12697/171978
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FRANCE24 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157568
+http://iptvtree.net:8080/13354/27c12697/157568
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: FX Cinema HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171987
+http://iptvtree.net:8080/13354/27c12697/171987
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: GNIX SPORTS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174698
+http://iptvtree.net:8080/13354/27c12697/174698
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: GO SHOP 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/157502
+http://iptvtree.net:8080/13354/27c12697/157502
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: GO SHOP GAAYA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157493
+http://iptvtree.net:8080/13354/27c12697/157493
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: GO SHOP RUUMA
-http://iptvtree.net:8080/766a3d10/7781c6505e/157494
+http://iptvtree.net:8080/13354/27c12697/157494
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: GOLF Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157563
+http://iptvtree.net:8080/13354/27c12697/157563
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HBO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157518
+http://iptvtree.net:8080/13354/27c12697/157518
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HGTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157553
+http://iptvtree.net:8080/13354/27c12697/157553
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: History HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157480
+http://iptvtree.net:8080/13354/27c12697/157480
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HITS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157545
+http://iptvtree.net:8080/13354/27c12697/157545
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HITS Movies HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157477
+http://iptvtree.net:8080/13354/27c12697/157477
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HUA HEE DAI HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157513
+http://iptvtree.net:8080/13354/27c12697/157513
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: HYPP SENSASI
-http://iptvtree.net:8080/766a3d10/7781c6505e/174693
+http://iptvtree.net:8080/13354/27c12697/174693
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: iQIYI HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157501
+http://iptvtree.net:8080/13354/27c12697/157501
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Jaya Max
-http://iptvtree.net:8080/766a3d10/7781c6505e/171963
+http://iptvtree.net:8080/13354/27c12697/171963
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: KALAIGNAR
-http://iptvtree.net:8080/766a3d10/7781c6505e/157499
+http://iptvtree.net:8080/13354/27c12697/157499
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: KBS World HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157475
+http://iptvtree.net:8080/13354/27c12697/157475
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: KIX HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157548
+http://iptvtree.net:8080/13354/27c12697/157548
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: KPLUS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157567
+http://iptvtree.net:8080/13354/27c12697/157567
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: MAKKAL TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/171966
+http://iptvtree.net:8080/13354/27c12697/171966
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: MTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157555
+http://iptvtree.net:8080/13354/27c12697/157555
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: MTV Asia
-http://iptvtree.net:8080/766a3d10/7781c6505e/171964
+http://iptvtree.net:8080/13354/27c12697/171964
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NAT GEO Asia HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171965
+http://iptvtree.net:8080/13354/27c12697/171965
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NAT GEO HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157531
+http://iptvtree.net:8080/13354/27c12697/157531
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NAT GEO People
-http://iptvtree.net:8080/766a3d10/7781c6505e/157551
+http://iptvtree.net:8080/13354/27c12697/157551
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NAT GEO WILD HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174724
+http://iptvtree.net:8080/13354/27c12697/174724
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NGW HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158352
+http://iptvtree.net:8080/13354/27c12697/158352
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Nick Junior
-http://iptvtree.net:8080/766a3d10/7781c6505e/157546
+http://iptvtree.net:8080/13354/27c12697/157546
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Nick Junior KD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174704
+http://iptvtree.net:8080/13354/27c12697/174704
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NICK KD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174711
+http://iptvtree.net:8080/13354/27c12697/174711
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: nickelodeon HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157541
+http://iptvtree.net:8080/13354/27c12697/157541
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Now Jelli
-http://iptvtree.net:8080/766a3d10/7781c6505e/171982
+http://iptvtree.net:8080/13354/27c12697/171982
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: NTV7
-http://iptvtree.net:8080/766a3d10/7781c6505e/174695
+http://iptvtree.net:8080/13354/27c12697/174695
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Oh!K HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157479
+http://iptvtree.net:8080/13354/27c12697/157479
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158349
+http://iptvtree.net:8080/13354/27c12697/158349
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: PARAMAUNT Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/174726
+http://iptvtree.net:8080/13354/27c12697/174726
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Paramount Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/171967
+http://iptvtree.net:8080/13354/27c12697/171967
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Pesona HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171972
+http://iptvtree.net:8080/13354/27c12697/171972
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: QUAN JIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158348
+http://iptvtree.net:8080/13354/27c12697/158348
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: RTM Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/187243
+http://iptvtree.net:8080/13354/27c12697/187243
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Salaam HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171980
+http://iptvtree.net:8080/13354/27c12697/171980
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SCM
-http://iptvtree.net:8080/766a3d10/7781c6505e/171970
+http://iptvtree.net:8080/13354/27c12697/171970
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SCM Legend
-http://iptvtree.net:8080/766a3d10/7781c6505e/171981
+http://iptvtree.net:8080/13354/27c12697/171981
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SETi Chinese
-http://iptvtree.net:8080/766a3d10/7781c6505e/171985
+http://iptvtree.net:8080/13354/27c12697/171985
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SHUANG XING HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157506
+http://iptvtree.net:8080/13354/27c12697/157506
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SKY NEWS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157527
+http://iptvtree.net:8080/13354/27c12697/157527
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Baby TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/174697
+http://iptvtree.net:8080/13354/27c12697/174697
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Dmax
-http://iptvtree.net:8080/766a3d10/7781c6505e/174720
+http://iptvtree.net:8080/13354/27c12697/174720
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Fox Action Movies HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174716
+http://iptvtree.net:8080/13354/27c12697/174716
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Golf HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174727
+http://iptvtree.net:8080/13354/27c12697/174727
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Movies HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174701
+http://iptvtree.net:8080/13354/27c12697/174701
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Music
-http://iptvtree.net:8080/766a3d10/7781c6505e/174702
+http://iptvtree.net:8080/13354/27c12697/174702
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet ZEE TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/174723
+http://iptvtree.net:8080/13354/27c12697/174723
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SkyNet Zing
-http://iptvtree.net:8080/766a3d10/7781c6505e/174706
+http://iptvtree.net:8080/13354/27c12697/174706
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SONY ONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174700
+http://iptvtree.net:8080/13354/27c12697/174700
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Sony SAB
-http://iptvtree.net:8080/766a3d10/7781c6505e/171973
+http://iptvtree.net:8080/13354/27c12697/171973
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Sony SetMAX
-http://iptvtree.net:8080/766a3d10/7781c6505e/171988
+http://iptvtree.net:8080/13354/27c12697/171988
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Sony TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/171974
+http://iptvtree.net:8080/13354/27c12697/171974
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Sport DREAM WORKS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174707
+http://iptvtree.net:8080/13354/27c12697/174707
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Star Chinese Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171975
+http://iptvtree.net:8080/13354/27c12697/171975
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: SUN MUSIC
-http://iptvtree.net:8080/766a3d10/7781c6505e/157496
+http://iptvtree.net:8080/13354/27c12697/157496
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TLC HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157483
+http://iptvtree.net:8080/13354/27c12697/157483
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: Travel Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/171977
+http://iptvtree.net:8080/13354/27c12697/171977
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TUTOR TV PT3
-http://iptvtree.net:8080/766a3d10/7781c6505e/157535
+http://iptvtree.net:8080/13354/27c12697/157535
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TUTOR TV SPM
-http://iptvtree.net:8080/766a3d10/7781c6505e/157537
+http://iptvtree.net:8080/13354/27c12697/157537
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TUTOR TV UPSR
-http://iptvtree.net:8080/766a3d10/7781c6505e/157534
+http://iptvtree.net:8080/13354/27c12697/157534
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV ALHIJRA
-http://iptvtree.net:8080/766a3d10/7781c6505e/174725
+http://iptvtree.net:8080/13354/27c12697/174725
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV ALHIJRAH
-http://iptvtree.net:8080/766a3d10/7781c6505e/157491
+http://iptvtree.net:8080/13354/27c12697/157491
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV1
-http://iptvtree.net:8080/766a3d10/7781c6505e/158357
+http://iptvtree.net:8080/13354/27c12697/158357
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV2
-http://iptvtree.net:8080/766a3d10/7781c6505e/158355
+http://iptvtree.net:8080/13354/27c12697/158355
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV3
-http://iptvtree.net:8080/766a3d10/7781c6505e/158360
+http://iptvtree.net:8080/13354/27c12697/158360
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV8
-http://iptvtree.net:8080/766a3d10/7781c6505e/174708
+http://iptvtree.net:8080/13354/27c12697/174708
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TV9
-http://iptvtree.net:8080/766a3d10/7781c6505e/171953
+http://iptvtree.net:8080/13354/27c12697/171953
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TVB CLASSIC
-http://iptvtree.net:8080/766a3d10/7781c6505e/157510
+http://iptvtree.net:8080/13354/27c12697/157510
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TVB E-NEWS
-http://iptvtree.net:8080/766a3d10/7781c6505e/157472
+http://iptvtree.net:8080/13354/27c12697/157472
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TVB XING HE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157473
+http://iptvtree.net:8080/13354/27c12697/157473
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: TVIQ
-http://iptvtree.net:8080/766a3d10/7781c6505e/157538
+http://iptvtree.net:8080/13354/27c12697/157538
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: tvN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157476
+http://iptvtree.net:8080/13354/27c12697/157476
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: tvN Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/157520
+http://iptvtree.net:8080/13354/27c12697/157520
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: VAANAVIL
-http://iptvtree.net:8080/766a3d10/7781c6505e/171971
+http://iptvtree.net:8080/13354/27c12697/171971
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: VINMEEN HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158354
+http://iptvtree.net:8080/13354/27c12697/158354
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: WARNER TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/157550
+http://iptvtree.net:8080/13354/27c12697/157550
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: WLT JADE
-http://iptvtree.net:8080/766a3d10/7781c6505e/157507
+http://iptvtree.net:8080/13354/27c12697/157507
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: WWE Network
-http://iptvtree.net:8080/766a3d10/7781c6505e/157562
+http://iptvtree.net:8080/13354/27c12697/157562
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: XIAO TAI YANG HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/157503
+http://iptvtree.net:8080/13354/27c12697/157503
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",MY: ZEE TAMIL
-http://iptvtree.net:8080/766a3d10/7781c6505e/174710
+http://iptvtree.net:8080/13354/27c12697/174710
 
 
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: Channel 5
-http://iptvtree.net:8080/766a3d10/7781c6505e/59296
+http://iptvtree.net:8080/13354/27c12697/59296
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: Channel 8
-http://iptvtree.net:8080/766a3d10/7781c6505e/59293
+http://iptvtree.net:8080/13354/27c12697/59293
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: Channel U
-http://iptvtree.net:8080/766a3d10/7781c6505e/59300
+http://iptvtree.net:8080/13354/27c12697/59300
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: CNA
-http://iptvtree.net:8080/766a3d10/7781c6505e/144757
+http://iptvtree.net:8080/13354/27c12697/144757
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: Suria
-http://iptvtree.net:8080/766a3d10/7781c6505e/59290
+http://iptvtree.net:8080/13354/27c12697/59290
 #EXTINF:-1 group-title="iptvtree Malaysia Singapore",SG: Vasantham
-http://iptvtree.net:8080/766a3d10/7781c6505e/59297
+http://iptvtree.net:8080/13354/27c12697/59297
 
 
 #EXTINF:-1,TH Cartoon Club HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/190779
+http://iptvtree.net:8080/13354/27c12697/190779
 #EXTINF:-1,TH Discovery ASIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/190427
+http://iptvtree.net:8080/13354/27c12697/190427
 #EXTINF:-1,TH Investigation Discovery Station
-http://iptvtree.net:8080/766a3d10/7781c6505e/190451
+http://iptvtree.net:8080/13354/27c12697/190451
 #EXTINF:-1,TH Kix/True Music
-http://iptvtree.net:8080/766a3d10/7781c6505e/191242
+http://iptvtree.net:8080/13354/27c12697/191242
 #EXTINF:-1,TH Music
-http://iptvtree.net:8080/766a3d10/7781c6505e/191156
+http://iptvtree.net:8080/13354/27c12697/191156
 #EXTINF:-1 group-title="iptvtree Thailand",TH: 9 MCOT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182389
+http://iptvtree.net:8080/13354/27c12697/182389
 #EXTINF:-1 group-title="iptvtree Thailand",TH: 13 Siam Thai
-http://iptvtree.net:8080/766a3d10/7781c6505e/146708
+http://iptvtree.net:8080/13354/27c12697/146708
 #EXTINF:-1 group-title="iptvtree Thailand",TH: 24 TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/192804
+http://iptvtree.net:8080/13354/27c12697/192804
 #EXTINF:-1 group-title="iptvtree Thailand",TH: 4050
-http://iptvtree.net:8080/766a3d10/7781c6505e/146809
+http://iptvtree.net:8080/13354/27c12697/146809
 #EXTINF:-1 group-title="iptvtree Thailand",TH: ABC Australia
-http://iptvtree.net:8080/766a3d10/7781c6505e/182369
+http://iptvtree.net:8080/13354/27c12697/182369
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Al Jazeera News
-http://iptvtree.net:8080/766a3d10/7781c6505e/174651
+http://iptvtree.net:8080/13354/27c12697/174651
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Al-Jazeera
-http://iptvtree.net:8080/766a3d10/7781c6505e/182420
+http://iptvtree.net:8080/13354/27c12697/182420
 #EXTINF:-1 group-title="iptvtree Thailand",TH: ALTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/193236
+http://iptvtree.net:8080/13354/27c12697/193236
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Amarin TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146711
+http://iptvtree.net:8080/13354/27c12697/146711
 #EXTINF:-1 group-title="iptvtree Thailand",TH: AniPlus
-http://iptvtree.net:8080/766a3d10/7781c6505e/193237
+http://iptvtree.net:8080/13354/27c12697/193237
 #EXTINF:-1 group-title="iptvtree Thailand",TH: APSARA TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/54295
+http://iptvtree.net:8080/13354/27c12697/54295
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Arirang
-http://iptvtree.net:8080/766a3d10/7781c6505e/162528
+http://iptvtree.net:8080/13354/27c12697/162528
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Asia Food Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/182374
+http://iptvtree.net:8080/13354/27c12697/182374
 #EXTINF:-1 group-title="iptvtree Thailand",TH: ATTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/195640
+http://iptvtree.net:8080/13354/27c12697/195640
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Bayon TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23852
+http://iptvtree.net:8080/13354/27c12697/23852
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Bloomberg
-http://iptvtree.net:8080/766a3d10/7781c6505e/162530
+http://iptvtree.net:8080/13354/27c12697/162530
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Blue Ant Entertainment
-http://iptvtree.net:8080/766a3d10/7781c6505e/162542
+http://iptvtree.net:8080/13354/27c12697/162542
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Boomerang
-http://iptvtree.net:8080/766a3d10/7781c6505e/54310
+http://iptvtree.net:8080/13354/27c12697/54310
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Bright News
-http://iptvtree.net:8080/766a3d10/7781c6505e/174648
+http://iptvtree.net:8080/13354/27c12697/174648
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Bright TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146719
+http://iptvtree.net:8080/13354/27c12697/146719
 #EXTINF:-1 group-title="iptvtree Thailand",TH: BTV NEWS
-http://iptvtree.net:8080/766a3d10/7781c6505e/23848
+http://iptvtree.net:8080/13354/27c12697/23848
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CAMBODIA TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23863
+http://iptvtree.net:8080/13354/27c12697/23863
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Cartoon Club HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146716
+http://iptvtree.net:8080/13354/27c12697/146716
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CBT
-http://iptvtree.net:8080/766a3d10/7781c6505e/192803
+http://iptvtree.net:8080/13354/27c12697/192803
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CCTV 4
-http://iptvtree.net:8080/766a3d10/7781c6505e/174652
+http://iptvtree.net:8080/13354/27c12697/174652
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Celestial Classic Movies
-http://iptvtree.net:8080/766a3d10/7781c6505e/182376
+http://iptvtree.net:8080/13354/27c12697/182376
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/172148
+http://iptvtree.net:8080/13354/27c12697/172148
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH 8
-http://iptvtree.net:8080/766a3d10/7781c6505e/145025
+http://iptvtree.net:8080/13354/27c12697/145025
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Ch2 Starmax
-http://iptvtree.net:8080/766a3d10/7781c6505e/174671
+http://iptvtree.net:8080/13354/27c12697/174671
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145110
+http://iptvtree.net:8080/13354/27c12697/145110
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH3/M20TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/174696
+http://iptvtree.net:8080/13354/27c12697/174696
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23854
+http://iptvtree.net:8080/13354/27c12697/23854
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CH7
-http://iptvtree.net:8080/766a3d10/7781c6505e/145035
+http://iptvtree.net:8080/13354/27c12697/145035
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/162536
+http://iptvtree.net:8080/13354/27c12697/162536
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/162537
+http://iptvtree.net:8080/13354/27c12697/162537
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 7 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23853
+http://iptvtree.net:8080/13354/27c12697/23853
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 8 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23856
+http://iptvtree.net:8080/13354/27c12697/23856
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 8 TCC
-http://iptvtree.net:8080/766a3d10/7781c6505e/162538
+http://iptvtree.net:8080/13354/27c12697/162538
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Channel 138
-http://iptvtree.net:8080/766a3d10/7781c6505e/174659
+http://iptvtree.net:8080/13354/27c12697/174659
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CNN Philippines
-http://iptvtree.net:8080/766a3d10/7781c6505e/174722
+http://iptvtree.net:8080/13354/27c12697/174722
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CT 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174676
+http://iptvtree.net:8080/13354/27c12697/174676
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CTB
-http://iptvtree.net:8080/766a3d10/7781c6505e/23858
+http://iptvtree.net:8080/13354/27c12697/23858
 #EXTINF:-1 group-title="iptvtree Thailand",TH: CTV9
-http://iptvtree.net:8080/766a3d10/7781c6505e/23862
+http://iptvtree.net:8080/13354/27c12697/23862
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DDTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23865
+http://iptvtree.net:8080/13354/27c12697/23865
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Deutsche Welle
-http://iptvtree.net:8080/766a3d10/7781c6505e/182384
+http://iptvtree.net:8080/13354/27c12697/182384
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Dhamma Channel Wat Sanghathan
-http://iptvtree.net:8080/766a3d10/7781c6505e/182338
+http://iptvtree.net:8080/13354/27c12697/182338
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Dhamma TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/182337
+http://iptvtree.net:8080/13354/27c12697/182337
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Discovery ASIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/162540
+http://iptvtree.net:8080/13354/27c12697/162540
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163375
+http://iptvtree.net:8080/13354/27c12697/163375
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163376
+http://iptvtree.net:8080/13354/27c12697/163376
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163377
+http://iptvtree.net:8080/13354/27c12697/163377
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163378
+http://iptvtree.net:8080/13354/27c12697/163378
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163379
+http://iptvtree.net:8080/13354/27c12697/163379
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 6 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163380
+http://iptvtree.net:8080/13354/27c12697/163380
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 7 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163381
+http://iptvtree.net:8080/13354/27c12697/163381
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 8 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163382
+http://iptvtree.net:8080/13354/27c12697/163382
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 10 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163384
+http://iptvtree.net:8080/13354/27c12697/163384
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 11 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163385
+http://iptvtree.net:8080/13354/27c12697/163385
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 12 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163386
+http://iptvtree.net:8080/13354/27c12697/163386
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 13 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163387
+http://iptvtree.net:8080/13354/27c12697/163387
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 14 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163388
+http://iptvtree.net:8080/13354/27c12697/163388
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DL TV 15 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163389
+http://iptvtree.net:8080/13354/27c12697/163389
 #EXTINF:-1 group-title="iptvtree Thailand",TH: DLTV 9 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/163383
+http://iptvtree.net:8080/13354/27c12697/163383
 #EXTINF:-1 group-title="iptvtree Thailand",TH: EEN
-http://iptvtree.net:8080/766a3d10/7781c6505e/174677
+http://iptvtree.net:8080/13354/27c12697/174677
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Esan TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23861
+http://iptvtree.net:8080/13354/27c12697/23861
 #EXTINF:-1 group-title="iptvtree Thailand",TH: ETV
-http://iptvtree.net:8080/766a3d10/7781c6505e/147245
+http://iptvtree.net:8080/13354/27c12697/147245
 #EXTINF:-1 group-title="iptvtree Thailand",TH: FanTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/165099
+http://iptvtree.net:8080/13354/27c12697/165099
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Fashion TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/182379
+http://iptvtree.net:8080/13354/27c12697/182379
 #EXTINF:-1 group-title="iptvtree Thailand",TH: FMTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173549
+http://iptvtree.net:8080/13354/27c12697/173549
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Fox
-http://iptvtree.net:8080/766a3d10/7781c6505e/146722
+http://iptvtree.net:8080/13354/27c12697/146722
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Fox News
-http://iptvtree.net:8080/766a3d10/7781c6505e/174654
+http://iptvtree.net:8080/13354/27c12697/174654
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Fox Thai
-http://iptvtree.net:8080/766a3d10/7781c6505e/172150
+http://iptvtree.net:8080/13354/27c12697/172150
 #EXTINF:-1 group-title="iptvtree Thailand",TH: France 24
-http://iptvtree.net:8080/766a3d10/7781c6505e/162548
+http://iptvtree.net:8080/13354/27c12697/162548
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Fresh News TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23864
+http://iptvtree.net:8080/13354/27c12697/23864
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Ginx TV/CH3
-http://iptvtree.net:8080/766a3d10/7781c6505e/174657
+http://iptvtree.net:8080/13354/27c12697/174657
 #EXTINF:-1 group-title="iptvtree Thailand",TH: GMM ONE HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23873
+http://iptvtree.net:8080/13354/27c12697/23873
 #EXTINF:-1 group-title="iptvtree Thailand",TH: GMM25
-http://iptvtree.net:8080/766a3d10/7781c6505e/146729
+http://iptvtree.net:8080/13354/27c12697/146729
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Investigation Discovery Station
-http://iptvtree.net:8080/766a3d10/7781c6505e/182365
+http://iptvtree.net:8080/13354/27c12697/182365
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Ja Ting Ja
-http://iptvtree.net:8080/766a3d10/7781c6505e/182386
+http://iptvtree.net:8080/13354/27c12697/182386
 #EXTINF:-1 group-title="iptvtree Thailand",TH: JKN
-http://iptvtree.net:8080/766a3d10/7781c6505e/182383
+http://iptvtree.net:8080/13354/27c12697/182383
 #EXTINF:-1 group-title="iptvtree Thailand",TH: KBS WORLD 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/174658
+http://iptvtree.net:8080/13354/27c12697/174658
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Kix/True Music
-http://iptvtree.net:8080/766a3d10/7781c6505e/174655
+http://iptvtree.net:8080/13354/27c12697/174655
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Lao Star
-http://iptvtree.net:8080/766a3d10/7781c6505e/182421
+http://iptvtree.net:8080/13354/27c12697/182421
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Luxury World
-http://iptvtree.net:8080/766a3d10/7781c6505e/147247
+http://iptvtree.net:8080/13354/27c12697/147247
 #EXTINF:-1 group-title="iptvtree Thailand",TH: M Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/6957
+http://iptvtree.net:8080/13354/27c12697/6957
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Major Channel Mix
-http://iptvtree.net:8080/766a3d10/7781c6505e/166123
+http://iptvtree.net:8080/13354/27c12697/166123
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Mangorn
-http://iptvtree.net:8080/766a3d10/7781c6505e/182341
+http://iptvtree.net:8080/13354/27c12697/182341
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MCOT HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145029
+http://iptvtree.net:8080/13354/27c12697/145029
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MCOT Kids & Family
-http://iptvtree.net:8080/766a3d10/7781c6505e/162562
+http://iptvtree.net:8080/13354/27c12697/162562
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MCOT-30 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/151350
+http://iptvtree.net:8080/13354/27c12697/151350
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Media TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/195639
+http://iptvtree.net:8080/13354/27c12697/195639
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Miracle Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/23875
+http://iptvtree.net:8080/13354/27c12697/23875
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Mix Major
-http://iptvtree.net:8080/766a3d10/7781c6505e/158607
+http://iptvtree.net:8080/13354/27c12697/158607
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MONO 29 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146760
+http://iptvtree.net:8080/13354/27c12697/146760
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Motor Vision
-http://iptvtree.net:8080/766a3d10/7781c6505e/182335
+http://iptvtree.net:8080/13354/27c12697/182335
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Music
-http://iptvtree.net:8080/766a3d10/7781c6505e/23876
+http://iptvtree.net:8080/13354/27c12697/23876
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Muslim TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/174679
+http://iptvtree.net:8080/13354/27c12697/174679
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MV LAO
-http://iptvtree.net:8080/766a3d10/7781c6505e/158608
+http://iptvtree.net:8080/13354/27c12697/158608
 #EXTINF:-1 group-title="iptvtree Thailand",TH: MV Loa
-http://iptvtree.net:8080/766a3d10/7781c6505e/174691
+http://iptvtree.net:8080/13354/27c12697/174691
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Nation HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146781
+http://iptvtree.net:8080/13354/27c12697/146781
 #EXTINF:-1 group-title="iptvtree Thailand",TH: National Reform Council TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/146782
+http://iptvtree.net:8080/13354/27c12697/146782
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NBT TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23886
+http://iptvtree.net:8080/13354/27c12697/23886
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NBT TV Bangkok HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158628
+http://iptvtree.net:8080/13354/27c12697/158628
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NEW 18
-http://iptvtree.net:8080/766a3d10/7781c6505e/174709
+http://iptvtree.net:8080/13354/27c12697/174709
 #EXTINF:-1 group-title="iptvtree Thailand",TH: New TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/15004
+http://iptvtree.net:8080/13354/27c12697/15004
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NEWS 1 ASTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/173545
+http://iptvtree.net:8080/13354/27c12697/173545
 #EXTINF:-1 group-title="iptvtree Thailand",TH: News 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174730
+http://iptvtree.net:8080/13354/27c12697/174730
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NEWS1 ASTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/54298
+http://iptvtree.net:8080/13354/27c12697/54298
 #EXTINF:-1 group-title="iptvtree Thailand",TH: NHK World TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/172145
+http://iptvtree.net:8080/13354/27c12697/172145
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Now 26 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146776
+http://iptvtree.net:8080/13354/27c12697/146776
 #EXTINF:-1 group-title="iptvtree Thailand",TH: ONE-31 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23892
+http://iptvtree.net:8080/13354/27c12697/23892
 #EXTINF:-1 group-title="iptvtree Thailand",TH: OneTv
-http://iptvtree.net:8080/766a3d10/7781c6505e/23896
+http://iptvtree.net:8080/13354/27c12697/23896
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Outdoor Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/182334
+http://iptvtree.net:8080/13354/27c12697/182334
 #EXTINF:-1 group-title="iptvtree Thailand",TH: PBS FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/147250
+http://iptvtree.net:8080/13354/27c12697/147250
 #EXTINF:-1 group-title="iptvtree Thailand",TH: PHKA ROMDOUL TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/147254
+http://iptvtree.net:8080/13354/27c12697/147254
 #EXTINF:-1 group-title="iptvtree Thailand",TH: PNN Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/23895
+http://iptvtree.net:8080/13354/27c12697/23895
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Police TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158618
+http://iptvtree.net:8080/13354/27c12697/158618
 #EXTINF:-1 group-title="iptvtree Thailand",TH: PPTV 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/174669
+http://iptvtree.net:8080/13354/27c12697/174669
 #EXTINF:-1 group-title="iptvtree Thailand",TH: PPTV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23902
+http://iptvtree.net:8080/13354/27c12697/23902
 #EXTINF:-1 group-title="iptvtree Thailand",TH: RAMA Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/182387
+http://iptvtree.net:8080/13354/27c12697/182387
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Reality Channel HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182375
+http://iptvtree.net:8080/13354/27c12697/182375
 #EXTINF:-1 group-title="iptvtree Thailand",TH: RS Mall
-http://iptvtree.net:8080/766a3d10/7781c6505e/195630
+http://iptvtree.net:8080/13354/27c12697/195630
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Russia Today
-http://iptvtree.net:8080/766a3d10/7781c6505e/182368
+http://iptvtree.net:8080/13354/27c12697/182368
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SABAIDEE
-http://iptvtree.net:8080/766a3d10/7781c6505e/162569
+http://iptvtree.net:8080/13354/27c12697/162569
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SEA TV Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/23903
+http://iptvtree.net:8080/13354/27c12697/23903
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SETANA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174661
+http://iptvtree.net:8080/13354/27c12697/174661
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Smart SME Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/166157
+http://iptvtree.net:8080/13354/27c12697/166157
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SME
-http://iptvtree.net:8080/766a3d10/7781c6505e/151938
+http://iptvtree.net:8080/13354/27c12697/151938
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SONGTOPIA Livehouse by AIS PLAY
-http://iptvtree.net:8080/766a3d10/7781c6505e/195641
+http://iptvtree.net:8080/13354/27c12697/195641
 #EXTINF:-1 group-title="iptvtree Thailand",TH: SONY ASIA HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174662
+http://iptvtree.net:8080/13354/27c12697/174662
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Speed Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/192772
+http://iptvtree.net:8080/13354/27c12697/192772
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Stringray iConcerts HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182339
+http://iptvtree.net:8080/13354/27c12697/182339
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Super Bunteung
-http://iptvtree.net:8080/766a3d10/7781c6505e/182336
+http://iptvtree.net:8080/13354/27c12697/182336
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Suwan TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23897
+http://iptvtree.net:8080/13354/27c12697/23897
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Suwannabhumi TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/147255
+http://iptvtree.net:8080/13354/27c12697/147255
 #EXTINF:-1 group-title="iptvtree Thailand",TH: T Sports
-http://iptvtree.net:8080/766a3d10/7781c6505e/193238
+http://iptvtree.net:8080/13354/27c12697/193238
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TechStorm
-http://iptvtree.net:8080/766a3d10/7781c6505e/195635
+http://iptvtree.net:8080/13354/27c12697/195635
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TGN TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23905
+http://iptvtree.net:8080/13354/27c12697/23905
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Thai CCTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/182385
+http://iptvtree.net:8080/13354/27c12697/182385
 #EXTINF:-1 group-title="iptvtree Thailand",TH: THAI PBS HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/146798
+http://iptvtree.net:8080/13354/27c12697/146798
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Thai Thai Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/162571
+http://iptvtree.net:8080/13354/27c12697/162571
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Thailand Championship 2020
-http://iptvtree.net:8080/766a3d10/7781c6505e/195634
+http://iptvtree.net:8080/13354/27c12697/195634
 #EXTINF:-1 group-title="iptvtree Thailand",TH: THAIRATH TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23909
+http://iptvtree.net:8080/13354/27c12697/23909
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TNN16
-http://iptvtree.net:8080/766a3d10/7781c6505e/23901
+http://iptvtree.net:8080/13354/27c12697/23901
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Toonee
-http://iptvtree.net:8080/766a3d10/7781c6505e/193240
+http://iptvtree.net:8080/13354/27c12697/193240
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Topline
-http://iptvtree.net:8080/766a3d10/7781c6505e/193239
+http://iptvtree.net:8080/13354/27c12697/193239
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TPBS
-http://iptvtree.net:8080/766a3d10/7781c6505e/145027
+http://iptvtree.net:8080/13354/27c12697/145027
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TPTV
-http://iptvtree.net:8080/766a3d10/7781c6505e/172142
+http://iptvtree.net:8080/13354/27c12697/172142
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True 4U
-http://iptvtree.net:8080/766a3d10/7781c6505e/54319
+http://iptvtree.net:8080/13354/27c12697/54319
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Explore Life
-http://iptvtree.net:8080/766a3d10/7781c6505e/182358
+http://iptvtree.net:8080/13354/27c12697/182358
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Explore Science
-http://iptvtree.net:8080/766a3d10/7781c6505e/172161
+http://iptvtree.net:8080/13354/27c12697/172161
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Explore Wild
-http://iptvtree.net:8080/766a3d10/7781c6505e/182371
+http://iptvtree.net:8080/13354/27c12697/182371
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Film 2
-http://iptvtree.net:8080/766a3d10/7781c6505e/172160
+http://iptvtree.net:8080/13354/27c12697/172160
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Golf Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/172153
+http://iptvtree.net:8080/13354/27c12697/172153
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Inside HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/182363
+http://iptvtree.net:8080/13354/27c12697/182363
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Plook Panya
-http://iptvtree.net:8080/766a3d10/7781c6505e/172155
+http://iptvtree.net:8080/13354/27c12697/172155
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Premier Football 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/162591
+http://iptvtree.net:8080/13354/27c12697/162591
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Premier Football 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/162592
+http://iptvtree.net:8080/13354/27c12697/162592
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Premier Football 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/165101
+http://iptvtree.net:8080/13354/27c12697/165101
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Premier Football 4 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/162593
+http://iptvtree.net:8080/13354/27c12697/162593
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Premier Football 5 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145033
+http://iptvtree.net:8080/13354/27c12697/145033
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Select
-http://iptvtree.net:8080/766a3d10/7781c6505e/182362
+http://iptvtree.net:8080/13354/27c12697/182362
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Shopping
-http://iptvtree.net:8080/766a3d10/7781c6505e/182419
+http://iptvtree.net:8080/13354/27c12697/182419
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True SparkJump
-http://iptvtree.net:8080/766a3d10/7781c6505e/182357
+http://iptvtree.net:8080/13354/27c12697/182357
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True SparkPlay
-http://iptvtree.net:8080/766a3d10/7781c6505e/172164
+http://iptvtree.net:8080/13354/27c12697/172164
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True sports 2 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145112
+http://iptvtree.net:8080/13354/27c12697/145112
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Tennis HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145117
+http://iptvtree.net:8080/13354/27c12697/145117
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True Thai Film
-http://iptvtree.net:8080/766a3d10/7781c6505e/172157
+http://iptvtree.net:8080/13354/27c12697/172157
 #EXTINF:-1 group-title="iptvtree Thailand",TH: True X-zyte
-http://iptvtree.net:8080/766a3d10/7781c6505e/172159
+http://iptvtree.net:8080/13354/27c12697/172159
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Truesports 1 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/145023
+http://iptvtree.net:8080/13354/27c12697/145023
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Truesports 7
-http://iptvtree.net:8080/766a3d10/7781c6505e/162575
+http://iptvtree.net:8080/13354/27c12697/162575
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TV 5
-http://iptvtree.net:8080/766a3d10/7781c6505e/146806
+http://iptvtree.net:8080/13354/27c12697/146806
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TV CHIN 3
-http://iptvtree.net:8080/766a3d10/7781c6505e/174665
+http://iptvtree.net:8080/13354/27c12697/174665
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TV5 Monde
-http://iptvtree.net:8080/766a3d10/7781c6505e/182328
+http://iptvtree.net:8080/13354/27c12697/182328
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TV5 Pacific HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/174668
+http://iptvtree.net:8080/13354/27c12697/174668
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TVD 1
-http://iptvtree.net:8080/766a3d10/7781c6505e/195631
+http://iptvtree.net:8080/13354/27c12697/195631
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TVD Momo
-http://iptvtree.net:8080/766a3d10/7781c6505e/195632
+http://iptvtree.net:8080/13354/27c12697/195632
 #EXTINF:-1 group-title="iptvtree Thailand",TH: TVK TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/23906
+http://iptvtree.net:8080/13354/27c12697/23906
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Umm TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/158644
+http://iptvtree.net:8080/13354/27c12697/158644
 #EXTINF:-1 group-title="iptvtree Thailand",TH: V2H2TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/195636
+http://iptvtree.net:8080/13354/27c12697/195636
 #EXTINF:-1 group-title="iptvtree Thailand",TH: VEC
-http://iptvtree.net:8080/766a3d10/7781c6505e/195633
+http://iptvtree.net:8080/13354/27c12697/195633
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Very
-http://iptvtree.net:8080/766a3d10/7781c6505e/182360
+http://iptvtree.net:8080/13354/27c12697/182360
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Voice TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/158806
+http://iptvtree.net:8080/13354/27c12697/158806
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Voice TV 21 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23911
+http://iptvtree.net:8080/13354/27c12697/23911
 #EXTINF:-1 group-title="iptvtree Thailand",TH: White Channel FHD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23908
+http://iptvtree.net:8080/13354/27c12697/23908
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Workpoint TV HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/23405
+http://iptvtree.net:8080/13354/27c12697/23405
 #EXTINF:-1 group-title="iptvtree Thailand",TH: YATEEM TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/158801
+http://iptvtree.net:8080/13354/27c12697/158801
 #EXTINF:-1 group-title="iptvtree Thailand",TH: YTN
-http://iptvtree.net:8080/766a3d10/7781c6505e/182380
+http://iptvtree.net:8080/13354/27c12697/182380
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Zabb Channel
-http://iptvtree.net:8080/766a3d10/7781c6505e/158622
+http://iptvtree.net:8080/13354/27c12697/158622
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Zee Nung
-http://iptvtree.net:8080/766a3d10/7781c6505e/182381
+http://iptvtree.net:8080/13354/27c12697/182381
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Banteng 100
-http://iptvtree.net:8080/766a3d10/7781c6505e/158634
+http://iptvtree.net:8080/13354/27c12697/158634
 #EXTINF:-1 group-title="iptvtree Thailand",TH: Sanook TV
-http://iptvtree.net:8080/766a3d10/7781c6505e/158640
+http://iptvtree.net:8080/13354/27c12697/158640
 
 
 #EXTINF:-1 tvg-ID="" group-title="Temp",KIX SD

@@ -1605,7 +1605,7 @@ http://wma10.fluidstream.net:80/HistoryLab/livestream/playlist.m3u8
 https://indotv.tech:443/m3u8sd/usee-tvn-indonesia.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Kix
 https://indotv.tech:443/m3u8sd/usee-kix-indonesia.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",AXN 
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",AXN
 https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Lifetime
 https://indotv.tech:443/m3u8sd/usee-lifetime-indonesia.m3u8

@@ -1183,6 +1183,363 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",HBO
+https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",HBO Family
+https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",HBO Hits
+https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",HBO Signature 
+https://newlivetv.my.id:443/hbo/signature.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Red
+https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Cinemax 
+https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Axn
+https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Thrill
+https://newlivetv.my.id:443/useetv/thrill-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Kix
+https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Chinese drama
+https://newlivetv.my.id:443/useetv/chinesedrama-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Flik
+https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",CINEMAX
+https://newlivetv.my.id:443/useetv/cinemax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Indosiar
+https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Sctv
+https://newlivetv.my.id:443/useetv/sctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Rtv
+https://newlivetv.my.id:443/useetv/rtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Transtv
+https://newlivetv.my.id:443/useetv/transtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Trans7 
+https://newlivetv.my.id:443/useetv/trans7-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Metrotv
+https://newlivetv.my.id:443/useetv/metrotv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Kompastv 
+https://newlivetv.my.id:443/useetv/kompastv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",Wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",MOVIE X
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",astro ceria 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",bbc earth
+https://livecdn.fptplay.net:443/qnetlive/bbcearth_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",biznet Lifestyle 
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",biznet Kids 
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",magna Channel 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",hidup TV 
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="OTHERS",PeaceTV 
+https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",Gem Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",Gem Classic
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",Gem Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",Gem Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="OTHERS",Gem Series
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX CRIME
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/1
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX LIFE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/2
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX ACTION MOVIES
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/20
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX FAMILY MOVIES
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/21
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/22
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX MOVIES
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/63
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",CELESTIAL CLASSIC MOVIE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/13
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HITS MOVIES
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/7
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HBO
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/65
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HBO HITS
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/66
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HBO SIGNATURE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/67
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HBO FAMILY
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/68
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISNEY CHANNEL IND
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/23
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISNEY JUNIOR IND
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/24
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",CARTOON NETWORK
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/69
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",CBEEBIES
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/74
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISNEY XD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/12
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",JOWO CHANNEL
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/62
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISCOVERY SCIENCE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/4
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BBC EARTH
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/40
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",ANIMAL PLANET
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/27
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISCOVERY ASIA
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/29
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BBC SCOTLAND
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/73
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",DISCOVERY TURBO
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/42
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",OUTDOOR EDGE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/78
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",SYFY
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/3
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX NEWS
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/5
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",SONY PIX HD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/9
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",SONY MOVIES ACTION
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/15
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",ZEE BOLLYWOOD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/16
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",&PICTURES HD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/17
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",ZEECAFE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/18
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",& FLIX HD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/19
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",& PRIVE HD
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/33
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",HITS
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/39
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BEIN MOVIES PREMIERE AR
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/83
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BEIN MOVIES ACTION AR
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/84
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BEIN MOVIES DRAMA AR
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/85
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BEIN MOVIES FAMILY AR
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/86
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BBC NEWS
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/75
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",MUSIC
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/76
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",BBC LIFESTYLE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/79
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",EUROSPORT 2
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/10
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",EUROSPORT 1
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/11
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",MMA JUNKIE
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/30
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOOTBALL HUB
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/31
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FIGHT 
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/43
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",ESPN NETWORK
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/46
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",ESPN 2
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/47
+#EXTINF:-1 tvg-id="ext" group-title="ViTV",FOX WS
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/52
+
+
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",K+
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",DRAKOR 1
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",DRAKOR 2
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Zq drama hd
+http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Zq drama sd
+http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+
+
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",MOVIES X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",WIXLAR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FilmPremium",FOX MOVIES World
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",CHC TV
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Xing Kong
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO HD (Resolusi)
+http://me.zichannels.my.id/ch/hbo.m3u8 
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO Hits (Resolusi)
+http://me.zichannels.my.id/ch/hits.m3u8 
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO Family (Resolusi)
+http://me.zichannels.my.id/ch/family.m3u8 
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO Signature (Resolusi)
+http://me.zichannels.my.id/ch/sighd.m3u8 
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO Red (Resolusi)
+http://me.zichannels.my.id/ch/red.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO Max (Resolusi)
+http://me.zichannels.my.id/ch/max.m3u8 
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Cookie Rerun
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FOX
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Film ARMENIA TV 
+http://92.43.140.200/s42/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Film odega
+http://92.43.140.200/s47/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Film A HBO
+http://92.43.140.200/s64/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Film T24
+http://92.43.140.200/s68/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FILM ?? 
+http://92.43.140.200/s7/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Hiburan 
+http://92.43.140.200/s38/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",DRAKOR
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FOX THAI
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FOX MOVIES THAI
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO HD THAI
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO HITS THAI
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO RED THAI
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",AXN THAI
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",WARNER TV THAI
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",KIX MALAY
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO ENG
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO 
+https://www.livedoomovies.com:443/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",UK: HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO FAM
+https://www.livedoomovies.com:443/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO HITS
+https://www.livedoomovies.com:443/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",HBO SIG
+https://www.livedoomovies.com:443/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",CINEMAX
+http://136.243.177.164/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Sony Movies Action
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",AXN
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",FOX MOVIE
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium", WAU HD
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-id="ext" group-title="FilmPremium",IAM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",BLUE ANT ENTERTAINMENT
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="FilmPremium",BLUE ANT EXTREME
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+
+
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Jtv
+http://122.248.43.138:1935/ch2/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Etv
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Simpang5Tv
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Btv
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",JawaPostv
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",PALtv
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Rctv
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Btv
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Radar tv
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",RBtv
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",JekTvJambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",PONtv
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",PadangTv
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Stv
+http://122.248.43.138:1935/ch19/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Sultra tv
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",JambiTv
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",SnTv
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Dayak tv
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Fajar tv
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
+#EXTINF:-1   tvg-id="ext" group-title="Daerah",Citra tv
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+
+
+
+
 #EXTINF:-1 group-title="iptvtree USA",US: 24/7 Friends
 http://iptvtree.net:8080/13354/27c12697/148440
 #EXTINF:-1 group-title="iptvtree USA",US: 24/7 Mr. Bean
@@ -3061,64 +3418,4 @@ https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Temp",iptvtools_77
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",HBO
-https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",HBO Family
-https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",HBO Hits
-https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",HBO Signature 
-https://newlivetv.my.id:443/hbo/signature.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Red
-https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Cinemax 
-https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
 
-
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Indosiar
-https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Sctv
-https://newlivetv.my.id:443/useetv/sctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Antv
-https://newlivetv.my.id:443/useetv/antv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Globaltv
-https://newlivetv.my.id:443/useetv/gtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Mnctv
-https://newlivetv.my.id:443/useetv/mnctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Nettv
-https://newlivetv.my.id:443/useetv/nettv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Rtv
-https://newlivetv.my.id:443/useetv/rtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Rcti
-https://newlivetv.my.id:443/useetv/rcti-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Transtv
-https://newlivetv.my.id:443/useetv/transtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Trans7 
-https://newlivetv.my.id:443/useetv/trans7-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",TvOne
-https://newlivetv.my.id:443/useetv/tvone-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Tvri
-https://newlivetv.my.id:443/useetv/tvri-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Metrotv
-https://newlivetv.my.id:443/useetv/metrotv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Kompastv 
-https://newlivetv.my.id:443/useetv/kompastv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",InewsTv
-https://newlivetv.my.id:443/useetv/inewstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Thrill
-https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvGZ&source=useetv
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",thrill
-https://newlivetv.my.id:443/useetv/thrill-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Kix
-https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Kix 2
-https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyOCwidGltZSI6IDE2MTAzNTYzMjh9
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Axn
-https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Chinese drama
-https://newlivetv.my.id:443/useetv/chinesedrama-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",Flik
-https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="CAMPUR3",
-https://newlivetv.my.id:443/useetv/cinemax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ

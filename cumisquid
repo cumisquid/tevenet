@@ -1119,8 +1119,7 @@ https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/useetv/chinesedrama-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Flik
 https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",CINEMAX
-https://newlivetv.my.id:443/useetv/cinemax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
 #EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Indosiar
 https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:-1 tvg-id="ext" group-title="NewLiveTV",Sctv
